@@ -2,6 +2,7 @@
 title: "Over"
 description: "Al voor de Corona crisis wilden we met OSGeo.nl al iets 'live' gaan doen. De huidige situatie heeft dit versneld. We zijn gewoon begonnen"
 featured_image: '/images/dggs-logo1.jpg'
+omit_header_text: true
 type: page
 menu: main
 
