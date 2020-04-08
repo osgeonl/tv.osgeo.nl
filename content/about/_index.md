@@ -5,5 +5,5 @@ featured_image: ''
 ---
 {{< figure src="/images/dggs-logo1.jpg" title="Eerste logo" >}}
 
-Hier tekst in contact.
+Hier tekst in "Over".
 

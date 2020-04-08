@@ -2,7 +2,7 @@
 title: Contact
 featured_image: "images/dggs-logo1.jpg"
 omit_header_text: true
-description: We'd love to hear from you
+description: We horen graag van je
 type: page
 menu: main
 
