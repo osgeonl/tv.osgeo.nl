@@ -10,7 +10,7 @@ echo "tv.osgeo.nl" > docs/CNAME
 
 # Build the project.
 # hugo - if using a theme, replace with `hugo -t <YOURTHEME>`
-hugo -t ananke
+hugo -D -t ananke
 
 # Go To Public folder
 # cd docs
