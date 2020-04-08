@@ -1,0 +1,6 @@
+[submodule "themes/castanet"]
+	path = themes/castanet
+	url = https://github.com/mattstratton/castanet.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
