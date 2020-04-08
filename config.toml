@@ -1,6 +1,6 @@
 baseURL = "https://tv.osgeo.nl/"
 languageCode = "nl-nl"
-title = "De Grote Geo Show"
+title = ""
 theme = "ananke"
 publishDir = "docs"
 
