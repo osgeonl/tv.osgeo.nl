@@ -1,6 +1,6 @@
 baseURL = "https://tv.osgeo.nl/"
 languageCode = "nl-nl"
-title = ""
+title = "DGGS"
 theme = "ananke"
 publishDir = "docs"
 
