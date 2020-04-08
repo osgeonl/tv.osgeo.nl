@@ -1,6 +1,6 @@
 ---
 title: "Over"
-description: "Al voor de Corona crisis wilden we met OSGeo.nl al iets 'live' gaan doen. De huidige situatie heeft dit versneld, De Streamversnelling, en we zijn gewoon begonnen"
+description: "Al voor de Corona crisis wilden we met OSGeo.nl al iets 'live' gaan doen. De huidige situatie heeft dit versneld. We zijn gewoon begonnen"
 featured_image: '/images/dggs-logo1.jpg'
 ---
 
