@@ -5,7 +5,6 @@ omit_header_text: true
 description: We horen graag van je
 type: page
 menu: main
-
 ---
 
 Wil je meedoen, voor of achter de schermen? 

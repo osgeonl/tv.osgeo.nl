@@ -5,8 +5,8 @@ featured_image: '/images/dggs-logo1.jpg'
 omit_header_text: true
 type: page
 menu: main
-
 ---
+
 De Grote Geo Show (DGGS) is een regelmatige live-gestreamde WebShow in "DWDD-stijl" met een keur van onderwerpen
 uit de (Open) Geo wereld. Elk onderwerp, een Rubriek, duurt 5-10 minuten en wordt verzorgd door een 
 van de DGGS-makers. Dat kan jij ook zijn/worden!
