@@ -1,5 +1,5 @@
 # tv.osgeo.nl
-Website en meer t.b.v. OSGeonl TV zoals De Grote Geo Show
+Website https://tv.osgeo.nl - nu voor De Grote Geo Show
 
 ## Gemaakt met Hugo
 
