@@ -1,6 +1,6 @@
 baseURL = "https://tv.osgeo.nl/"
 languageCode = "nl-nl"
-title = "DGGS"
+title = "De Grote Geo Show"
 theme = "ananke"
 publishDir = "docs"
 
@@ -30,6 +30,8 @@ enableRobotsTXT = true
   slack = ""
   stackoverflow = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  # Just: remove default black dimming for banner
+  # cover_dimming_class = "none"
   background_color_class = "bg-green"
-  featured_image = "/images/dggs-logo1.jpg"
+  featured_image = "/images/dggs-logo2.jpg"
   recent_posts_number = 2

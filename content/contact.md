@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/dggs-logo1.jpg"
+featured_image: "images/dggs-logo2.jpg"
 omit_header_text: true
 description: We horen graag van je
 type: page

@@ -1,6 +1,6 @@
 ---
 title: ""
-featured_image: '/images/dggs-logo1.jpg'
+featured_image: '/images/dggs-logo2.jpg'
 description: ""
 ---
 
