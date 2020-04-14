@@ -20,14 +20,5 @@
       <description>Hier hier dan YouTube embedded link.</description>
     </item>
     
-    <item>
-      <title>Episode #0 - 10 April 2020</title>
-      <link>https://tv.osgeo.nl/episode/episode-0000/</link>
-      <pubDate>Wed, 08 Apr 2020 09:18:00 +0200</pubDate>
-      
-      <guid>https://tv.osgeo.nl/episode/episode-0000/</guid>
-      <description>Waarin we testen, zeg maar de making of.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -24,13 +24,6 @@
   </url>
   
   <url>
-    <loc>https://tv.osgeo.nl/episode/episode-0000/</loc>
-    <lastmod>2020-04-08T09:18:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://tv.osgeo.nl/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
