@@ -11,17 +11,18 @@ De Grote Geo Show (DGGS) is een regelmatige live-gestreamde WebShow in "DWDD-sti
 uit de (Open) Geo wereld. Elk onderwerp, een Rubriek, duurt 5-10 minuten en wordt verzorgd door een 
 van de DGGS-makers. Dat kan jij ook zijn/worden!
 
-Het geheel wordt aan elkaar gepraat door de talkshow Host, in duo of met "Scherm Dame of -Heer". Tussendoor is er afleiding
-in de vorm van een quiz waar kijkers aan mee kunnen doen. Sowieso is er interactie tijdens uitzending mogelijk
-vanuit publiek via Chat.
+Er is interactie tijdens uitzending mogelijk vanuit publiek via Chat (handig: maak account aan op [twitch.tv](https://twitch.tv))
+en we spelen iedere keer De Grote Geo Quiz met publiek!
 
 Wat kun je verwachten als onderwerpen? In het algemeen wat mensen in de open geo-wereld beweegt, wat hopelijk jou beweegt.
 Van luchtige onderwerpen als het GeoGedicht tot serieuzer "Kreatief met Kaarten",  
-"Hoe doe je dat in QGIS?" en alles daartussen.
+"Hoe doe je dat in QGIS?", interviews met geo-mensen en alles daartussen.
 
-We brengen steeds gasten die gepassioneerd zijn over hun geo-onderwerp.
+We brengen steeds gasten die gepassioneerd zijn over hun geo-onderwerp/project/bedrrijf.
 
 Voorlopig zenden we uit via het OSGeo.nl Twitch kanaal op https://twitch.tv/osgeonl.
 
-De uitzenddata worden op deze website en via andere kanalen (GeoForum, TWitter etc) bekend gemaakt.
+De uitzenddata worden op deze website en via andere kanalen
+([GeoForum.nl](https://geoforum.nl), [Twitter](https://twitter.com/osgeonl), 
+[OSGeoNL Meetup](https://www.meetup.com/OSGeoNL)) bekend gemaakt.
 Op deze website kunnen afleveringen (Episodes) ook teruggekeken worden.
