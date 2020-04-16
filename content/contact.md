@@ -20,7 +20,7 @@ Deze website is het primaire contact voor DGGS.
 
 Dat kan voor of achter de schermen, we hebben nog veel mensen nodig!
 Heb je een leuk idee voor een rubriek die je wilt doen? Kunnen we je interviewen?
-Of gewoon bijdragen met leuke filmpjes, leaders, achtergron designs etc?
+Of gewoon bijdragen met leuke filmpjes, leaders, achtergrond designs etc?
 
 * stuur mail naar tv at osgeo.nl
 * praat mee in [onze DGGS Telegram groep](https://t.me/joinchat/MbPnexwrc_tm-27aHixFWA)
