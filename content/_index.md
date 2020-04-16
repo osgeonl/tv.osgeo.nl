@@ -9,7 +9,7 @@ livestream in DWDD-stijl met mensen en onderwerpen uit de (Open) Geo Wereld.
 
 We gaan beginnen!
  
-__Episode #1 op 16 April 2020, 16:00__<br/>
+__Episode #1 op 16 April 2020, 16:00-17:30__  
 __Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__
 
 Wil je meedoen, voor of achter de schermen?
