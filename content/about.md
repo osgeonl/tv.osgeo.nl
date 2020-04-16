@@ -14,7 +14,7 @@ van de DGGS-makers. Dat kan jij ook zijn/worden!
 Er is interactie tijdens uitzending mogelijk vanuit publiek via Chat (handig: maak account aan op [twitch.tv](https://twitch.tv))
 en we spelen iedere keer De Grote Geo Quiz met publiek!
 
-![alt text](/images/dggs-poster1.jpg "Poster Episode #1 doorloop")
+![alt text](/images/dggs-poster.jpg "Poster Episode #1 doorloop")
 
 Wat kun je verwachten als onderwerpen? In het algemeen wat mensen in de open geo-wereld beweegt, wat hopelijk jou beweegt.
 Van luchtige onderwerpen als het GeoGedicht tot serieuzer "Kreatief met Kaarten",  
