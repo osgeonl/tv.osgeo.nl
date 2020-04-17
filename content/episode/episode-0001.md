@@ -22,11 +22,11 @@ Kijk de aflevering terug via YouTube.
 
 ### Uitslag Quiz
 
-![alt text](/images/episode-0001/uitslag-quiz.jpg "Uitslag van de Grote geo Quiz")
+![alt text](/images/episode-0001/uitslag-quiz.jpg "Uitslag van De Grote Geo Quiz")
 
 ### Links
 
+* _Kreatief met Kaarten_ - binnenkort meer op [Niene's Blog](https://twitter.com/BNiene)
 * _Open Source Software for Preprocessing GIS Data for Hydrological Models_ - IHE Delft - Hans van der Kwast, Kurt Menke : [link](https://ocw.un-ihe.org/course/view.php?id=11&section=9) of short URL: http://loc8.cc/qgishydro
 * _Tracking en tracing in tijden van corona_ - Waag Amsterdam - [link](https://waag.org/nl/article/tracking-en-tracing-tijden-van-corona)
 * _Ministerie van VWS organiseert digitaal evenement voor beoordeling coronavirus-apps_ - [link](https://www.rijksoverheid.nl/actueel/nieuws/2020/04/15/ministerie-van-vws-organiseert-digitaal-evenement-voor-beoordeling-corona-apps)  
-

@@ -18,7 +18,7 @@ en we spelen iedere keer De Grote Geo Quiz met publiek!
 
 Wat kun je verwachten als onderwerpen? In het algemeen wat mensen in de open geo-wereld beweegt, wat hopelijk jou beweegt.
 Van luchtige onderwerpen als het GeoGedicht tot serieuzer "Kreatief met Kaarten",  
-"Hoe doe je dat in QGIS?", interviews met geo-mensen en alles daartussen.
+"Hoe doe je dat in QGIS?", "De Grote Geo Quiz" met publiek, interviews met geo-mensen en alles daartussen.
 
 We brengen steeds gasten die gepassioneerd zijn over hun geo-onderwerp/project/bedrrijf.
 

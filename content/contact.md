@@ -13,7 +13,7 @@ Deze website is het primaire contact voor DGGS.
 
 * Twitch: volg [twitch.tv/osgeonl](https://twitch.tv/osgeonl)
 * [Twitter](https://twitter.com/osgeonl)
-* [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL))
+* [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL)
 * [GeoForum.nl](https://geoforum.nl)
 
 ## Meedoen? 
