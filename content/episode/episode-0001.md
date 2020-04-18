@@ -15,7 +15,7 @@ Kijk de aflevering terug via YouTube.
 - Niene - _"Kreatief met Kaarten"_
 - Mariëlle - _"Mariëlle's University"_
 - Erik "Nico" Meerburg - Column - _"Klikkers & Tikkers"_
-- Mariëlle - "De Grote Geo Quiz" -  jij als kijker kan meedoen!
+- Mariëlle - _"De Grote Geo Quiz"_ -  jij als kijker kan meedoen!
 - Just - _"Leven van de Bron"_ - Interview Paul v Genuchten, GeoCat
 - Niene - _"Topoëzie"_
 - Kijkersvragen/evaluatie/WVNTTK
