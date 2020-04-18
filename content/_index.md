@@ -1,7 +1,7 @@
 ---
 title: ""
 featured_image: '/images/dggs-logo2.jpg'
-description: "De Grote Geo Show (DGGS), wekelijkse livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld"
+description: ""
 ---
 
 Welkom op de website van De Grote Geo Show (DGGS), een voorlopig wekelijkse
