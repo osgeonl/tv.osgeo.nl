@@ -9,9 +9,19 @@ Kijk de aflevering terug via YouTube.
 
 ### Programma
 
+Voorlopig programma, elk item plm 10 minuten.
+
+Uw Host & Kompas: Niene Boeijen
+
+Rubrieken:
+- Jonna Bos - “Aankaarten” Missing Maps van Id naar JOSM
+- Mariëlle - “Marielle’s University” QGIS: SVG kleuren aanpassen
+- Erik "Nico" Meerburg - “Wekelijkse Column”
+- Mariëlle - "De Grote Geo Quiz" (iedereen kan meedoen!)
+- Just - Interview Marco Duiker van Landgoed.it
+- Niene - “Topoëzie” en Online Geo-Events Agenda
 
 ### Uitslag Quiz
 
 
 ### Links
-
