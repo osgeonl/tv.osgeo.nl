@@ -1,11 +1,13 @@
 ---
 title: "Episode #2 - 23 April 2020"
-date: 2020-04-18T13:18:00+02:00
+date: 2020-04-23T13:18:00+02:00
 draft: true
 ---
 
 ### Terugkijken
 Kijk de aflevering terug via YouTube.
+
+{{< youtube 2EzQ3dgjLxM >}}
 
 ### Programma
 
@@ -39,7 +41,4 @@ Rubrieken:
 * [The GeoMob](https://thegeomob.com/) Podcast and online events
 * [Mapscaping Podcast]( https://mapscaping.com/) Every week! 
 * [Project Geospatial](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMDAzZTNlMC9wb2RjYXN0L3Jzcw&episode=YjUxZGQ4OTktNjdhYi00YTM1LThmOTktZTg5YjAyNmZiMDM0&ved=0CAcQ38oDahcKEwjI3u_E3vzoAhUAAAAAHQAAAAAQBQ) Podcast 
-				
-				
-				
 				
