@@ -11,8 +11,6 @@ Kijk de aflevering terug via YouTube.
 
 ### Programma
 
-Voorlopig programma, elk item plm 10 minuten.
-
 Uw Host & Kompas: Niene Boeijen
 
 Rubrieken:
