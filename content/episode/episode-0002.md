@@ -11,9 +11,7 @@ Kijk de aflevering terug via YouTube.
 
 ### Programma
 
-Uw Host & Kompas: Niene Boeijen
-
-Rubrieken:
+Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
 - Jonna Bosch - “Aankaarten” - OSM Editen? Je kan zoveel meer met JOSM (t.o.v. Id)!
 - Mariëlle Geers - “Marielle’s University” QGIS: SVG kleuren aanpassen
@@ -28,11 +26,16 @@ Rubrieken:
 ### Links
 
 
-#### Andere online events:
+#### Marielle’s University
 
-* Maps: What's Left to Talk About? [FireSide chats](https://www.datavisualizationsociety.com/fireside-chats) van de Data Visualiation Society
+- "YouTube kanaal van Klas Karlsson" - https://tinyurl.com/DGGSaflevering2
+- "Hoe extern SVG symbool bewerkbaar maken en stijl opslaan in QGIS" https://tinyurl.com/DSSGSVG
+
+#### Andere online events
+
+* Maps: What's Left to Talk About? [FireSide chats](https://www.datavisualizationsociety.com/fireside-chats) van de Data Visualization Society
 * [How to do Map Stuff](https://somethingaboutmaps.wordpress.com/2020/03/19/how-to-do-map-stuff/) April 29th - 30th  - A Live Community Sharing Event Start 17:30  (29th) Berlin time till 2:30 (30th) Berlin time
-* Harvard Map Chat on [Instagram @harvardmaps](https://www.instagram.com/harvardmaps/?hl=en) every Thurday noon ET
+* Harvard Map Chat on [Instagram @harvardmaps](https://www.instagram.com/harvardmaps/?hl=en) every Thursday noon ET
 
 #### Geo Podcasts 
 
