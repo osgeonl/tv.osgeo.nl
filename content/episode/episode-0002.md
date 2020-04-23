@@ -14,7 +14,7 @@ Voorlopig programma, elk item plm 10 minuten.
 Uw Host & Kompas: Niene Boeijen
 
 Rubrieken:
-- Jonna Bos - “Aankaarten” Missing Maps van Id naar JOSM
+- Jonna Bosch - “Aankaarten” Missing Maps van Id naar JOSM
 - Mariëlle - “Marielle’s University” QGIS: SVG kleuren aanpassen
 - Erik "Nico" Meerburg - “Wekelijkse Column”
 - Mariëlle - "De Grote Geo Quiz" (iedereen kan meedoen!)
