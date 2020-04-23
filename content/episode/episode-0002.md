@@ -15,7 +15,7 @@ Uw Host & Kompas: Niene Boeijen
 
 Rubrieken:
 
-- Jonna Bosch - “Aankaarten” - OSM Editen? Je kan zoveel meer met JOSM (t.o.v. Id).
+- Jonna Bosch - “Aankaarten” - OSM Editen? Je kan zoveel meer met JOSM (t.o.v. Id)!
 - Mariëlle Geers - “Marielle’s University” QGIS: SVG kleuren aanpassen
 - Erik "Nico" Meerburg - “Wekelijkse Column”  - Metadata? Maître data!
 - Mariëlle Geers - "De Grote Geo Quiz" (iedereen kan meedoen!)
