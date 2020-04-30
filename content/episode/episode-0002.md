@@ -31,7 +31,7 @@ Uw Host & Kompas: Niene Boeijen. Rubrieken:
 #### Marielle’s University
 
 - "YouTube kanaal van Klas Karlsson" - https://tinyurl.com/DGGSaflevering2
-- "Hoe extern SVG symbool bewerkbaar maken en stijl opslaan in QGIS" https://tinyurl.com/DSSGSVG
+- "Hoe extern SVG symbool bewerkbaar maken en stijl opslaan in QGIS" https://tinyurl.com/dggssvg 
 
 #### Andere online events
 
