@@ -18,9 +18,9 @@ Kijk de aflevering terug via YouTube.
 Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
 * Hugo Ledoux - TU Delft [3D geoinformation research group](https://3d.bk.tudelft.nl/) - wat doet TU3D?
-* Niene Boeijen - Column over 3D (gaan we nog niet verklappen, maar zal stof doen opwaaien)
+* Niene Boeijen - Column over 3D - *"3D Verrommeling"*
 * De Grote Geo Quiz - 3D Special - Uw Quizmaster: GeoGoeroe - iedereen kan meedoen (via Kahoot).
-* Just van den Broecke - interview [SpotInfo](https://www.spotinfo.nl/wp/) met Jan-Willem van Aalst - maken Digital Twin heel NL
+* Just van den Broecke - interview [SpotInfo](https://www.spotinfo.nl) met Jan-Willem van Aalst - maken Digital Twin heel NL
 * Mariëlle Geers - "Marielle's University" o.a. 3D leren - aansluitend Jonna Bosch 3D in QGIS Demo
 
 ### Uitslag Quiz
