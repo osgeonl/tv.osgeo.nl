@@ -13,7 +13,7 @@ Kijk de aflevering terug via YouTube.
 
 **3D SPECIAL**
 
-3D voor Geo (in NL) van meerdere belicht, zelfs met kritiese kanttekeningen.
+3D voor Geo (in NL) vanuit meerdere hoeken belicht, zelfs met kritiese kanttekeningen.
 
 Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
