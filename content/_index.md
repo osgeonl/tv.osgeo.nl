@@ -8,7 +8,7 @@ Welkom op de website van De Grote Geo Show (DGGS), een wekelijkse
 livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld. 
 Iedere donderdag 16:00-17:00.
  
-__Episode #3 op 30 April 2020, 16:00-17:00 3D SPECIAL!__  
+__Episode #4 op 7 mei 2020, 16:00-17:00__  
 __Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__  
 __Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
 
