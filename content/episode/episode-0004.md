@@ -14,8 +14,9 @@ Wordt nog bepaald, komt hier indien definitief, voorlopig deze rubrieken:
 * Hans van der Kwast (IHE Delft) - Open Educatie
 * Erik "Nico" Meerburg - Column
 * De Grote Geo Quiz - (via Kahoot.it).
-* Willem Hoffmans - "wegbreedte uit BGT aan NWB hangen"
+* Willem Hoffmans - "Hoe breed is die weg?" (wegbreedte uit BGT aan NWB hangen)
 * Jonna Bosch - "Topoëzie"
+* Nieuwtjes uit de geo-wereld
 
 ### Uitslag Quiz
 
