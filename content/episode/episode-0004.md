@@ -4,8 +4,11 @@ date: 2020-05-02T10:09:00+02:00
 draft: true
 ---
 
+__Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__  
+__Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
+
 ### Terugkijken
-Kijk de aflevering terug via YouTube.
+Kijk de aflevering straks hier terug via YouTube.
 
 ### Programma
 
