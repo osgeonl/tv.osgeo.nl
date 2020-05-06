@@ -15,11 +15,11 @@ Kijk de aflevering straks hier terug via YouTube.
 Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
 * Hans van der Kwast (IHE Delft) - Open Educatie
-* Erik "Nico" Meerburg - Column
+* Jonna Bosch - "Topoëzie"
 * De Grote Geo Quiz - (via Kahoot.it).
 * Willem Hoffmans - "Hoe breed is die weg?" (wegbreedte uit BGT aan NWB hangen)
-* Jonna Bosch - "Topoëzie"
-* Nieuwtjes uit de geo-wereld
+* Erik "Nico" Meerburg - Column
+* Niene Boeijen - Nieuwtjes uit de geo-wereld
 
 ### Uitslag Quiz
 
