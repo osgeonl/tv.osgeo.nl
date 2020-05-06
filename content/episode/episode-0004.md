@@ -9,7 +9,7 @@ Kijk de aflevering terug via YouTube.
 
 ### Programma
 
-Wordt nog bepaald, komt hier indien definitief, voorlopig deze rubrieken:
+Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
 * Hans van der Kwast (IHE Delft) - Open Educatie
 * Erik "Nico" Meerburg - Column
