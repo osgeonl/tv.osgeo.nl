@@ -1,5 +1,5 @@
 ---
-title: "Episode #4 - 7 mei 2020"
+title: "Episode #4 - 7 mei 2020 - 16:00-17:00 CEST"
 date: 2020-05-06T09:09:00+02:00
 draft: true
 ---
