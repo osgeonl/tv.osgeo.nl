@@ -4,11 +4,12 @@ date: 2020-05-06T09:09:00+02:00
 draft: true
 ---
 
-__Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__  
-__Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
-
 ### Terugkijken
-Kijk de aflevering straks hier terug via YouTube.
+Kijk de aflevering hier terug via YouTube.
+
+{{< youtube ZWeNfu93_E4 >}}
+
+ZWeNfu93_E4
 
 ### Programma
 
@@ -23,9 +24,11 @@ Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0004/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 ### Links
+
+Hieronder de links uit de aflevering.
 
 Opening:
 				
@@ -33,9 +36,9 @@ Opening:
 
 * [Bevrijdingskaart](https://bevrijdingskaart.nl/)
 
-Hoe breed is een weg:
+Willem Hoffmans - Hoe breed is een weg:
 
-* [Wegbreedte script] (https://github.com/willemhoffmans/bgt_wegbreedte/)
+* [Wegbreedte script](https://github.com/willemhoffmans/bgt_wegbreedte/)
 
 Events: 
 
