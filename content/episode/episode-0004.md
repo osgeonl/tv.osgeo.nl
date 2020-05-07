@@ -33,6 +33,14 @@ Opening:
 
 * [Bevrijdingskaart](https://bevrijdingskaart.nl/)
 
+Open educatie:
+
+* [Webinar Open Educational Resources](https://youtu.be/-NA9rbigl1k)
+
+* [IHE Delft GIS Open CourseWare](https://www.gisopencourseware.org)
+
+* [YouTube Kanaal Hans van der Kwast](http://www.youtube.com/c/hansvanderkwast)
+
 
 Events: 
 
