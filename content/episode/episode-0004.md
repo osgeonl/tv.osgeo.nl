@@ -27,5 +27,19 @@ Komt hier.
 
 ### Links
 
-Komen hier.
+Opening:
 				
+* [Hoe normaal ben ik?](https://www.hoenormaalbenik.nl/)
+
+* [Bevrijdingskaart](https://bevrijdingskaart.nl/)
+
+
+Events: 
+
+* Webinar 12 Mei : [BRT - de meest gebruikte én meest vergeten basisregistratie](https://www.eventbrite.com/e/brt-de-meest-gebruikte-en-meest-vergeten-basisregistratie-tickets-103139434826?aff=odeimcmailchimp&mc_cid=147c89775b&mc_eid=6b5ff20f81)
+
+* [The GeoMob](https://thegeomob.com/post/may-6th-2020-geomob-details)
+
+Sluiting:
+
+* [MapDreamer AI Cartography](https://medium.com/@tjukanov/mapdreamer-ai-cartography-4f2f6a40ef55)
