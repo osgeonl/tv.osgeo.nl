@@ -14,7 +14,9 @@ Uw Host & Kompas: .... Rubrieken:
 
 * Ravi Peeters TU Delft 3D - "3D gebouw reconstructie uit BAG+AHN3"
 * Willem Hoffmans - De Grote Geo Quiz - MUZIEK SPECIAL (via Kahoot.it).
-* Tammo Jan Dijkema - "LOFAR en QGIS"
+* Column - Erik "Nico" Meerburg"
+* Mariëlle Geers-Mariëlle's University - "QGIS Map design+demo bivariabele choropleet"
+* Peter van Wee - "Over Mapillary vanuit de Velobike!"
 * ... - Nieuwtjes uit de geo-wereld
 
 ### Uitslag Quiz
