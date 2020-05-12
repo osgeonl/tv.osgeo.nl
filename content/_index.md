@@ -8,7 +8,7 @@ Welkom op de website van De Grote Geo Show (DGGS), een wekelijkse
 livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld. 
 Iedere donderdag 16:00-17:00.
  
-__Episode [#5 op 14 mei 2020, 16:00-17:00](/episode/episode-0005/)__  
+__Episode [#5 op 14 mei 2020, 16:00-17:00](/episode/episode-0005/) o.a. Mapillary en BAG3D!__  
 __Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__  
 __Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
 
