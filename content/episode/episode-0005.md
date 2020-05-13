@@ -12,14 +12,13 @@ Kijk later de aflevering hier terug via YouTube.
 
 ### Programma
 
-Uw Host & Kompas: .... Rubrieken:
+Uw Host & Kompas: Erik Meerburg. Rubrieken:
 
 * Ravi Peeters TU Delft 3D - "3D Gebouw Reconstructie uit BAG+AHN3"
 * Mariëlle Geers-Mariëlle's University - "QGIS Map design+demo bivariabele choropleet"
 * Willem Hoffmans - De Grote Geo Quiz - MUZIEK SPECIAL (via Kahoot.it).
 * Peter van Wee - "Mapillary" (de Open Data StreetView)
-* Column - Erik "Nico" Meerburg"
-* ... - Nieuwtjes uit de geo-wereld
+* Nieuwtjes uit de geo-wereld
 
 ### Uitslag Quiz
 
