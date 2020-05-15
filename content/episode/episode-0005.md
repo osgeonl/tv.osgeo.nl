@@ -38,4 +38,5 @@ Hieronder de links uit de aflevering.
 #### Mariëlle Geers-Mariëlle's University
 
 * [Boek: QGIS Map Design](https://locatepress.com/qmd) door [Gretchen N. Peterson](https://www.gretchenpeterson.com/) en [Anita Graser](https://anitagraser.com/)
+* [Youtube Kanaal Anita Graser](https://www.youtube.com/user/underdarkGIS/videos)
 
