@@ -29,7 +29,7 @@ Hieronder de links uit de aflevering.
 
 #### Erik Meerburg - Nieuwtjes
 
-[VPRO: AI Songfestival maakten we een AI-Song: Abbus](https://www.vpro.nl/medialab/projecten/overzicht/Abbus-videoclip.html)
+* [VPRO: MediaLab maakt AI Song voor AI songfestival: Abbus met Willie Wartaal](https://www.vpro.nl/medialab/projecten/overzicht/Abbus-videoclip.html)
 
 #### Ravi Peeters - "3D Gebouw Reconstructie uit BAG+AHN3"
 
