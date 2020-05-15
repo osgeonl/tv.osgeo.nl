@@ -28,3 +28,5 @@ De uitzenddata worden op deze website en via andere kanalen
 ([GeoForum.nl](https://geoforum.nl), [Twitter](https://twitter.com/osgeonl), 
 [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL)) bekend gemaakt.
 Op deze website kunnen afleveringen (Episodes) ook teruggekeken worden.
+
+De Grote Geo Show is een initiatief van [OSGeo.nl](https://osgeo.nl).

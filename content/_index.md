@@ -20,3 +20,5 @@ Wil je meedoen, voor of achter de schermen?
 Kijk in [Contact](/contact/) op deze website.
 
 Meer in [Over](/about/).
+
+De Grote Geo Show is een initiatief van [OSGeo.nl](https://osgeo.nl).
