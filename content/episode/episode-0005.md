@@ -4,11 +4,10 @@ date: 2020-05-12T09:09:00+02:00
 draft: true
 ---
 
-__Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__  
-__Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
-
 ### Terugkijken
-Kijk later de aflevering hier terug via YouTube.
+Kijk de aflevering hier terug via YouTube.
+
+{{< youtube p_NcBLe8aj8 >}}
 
 ### Programma
 
@@ -22,6 +21,21 @@ Uw Host & Kompas: Erik Meerburg. Rubrieken:
 
 ### Uitslag Quiz
 
+![alt text](/images/episode-0005/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
+
 ### Links
 
 Hieronder de links uit de aflevering.
+
+#### Erik Meerburg - Nieuwtjes
+
+[VPRO: AI Songfestival maakten we een AI-Song: Abbus](https://www.vpro.nl/medialab/projecten/overzicht/Abbus-videoclip.html)
+
+#### Ravi Peeters - "3D Gebouw Reconstructie uit BAG+AHN3"
+
+* [Presentatie met klikbare Links - Google Slides](https://docs.google.com/presentation/d/1r82mDnktcaiRL7sOq7HbEf7O7uBhUSIY358VD862Y34)
+
+#### Mariëlle Geers-Mariëlle's University
+
+* [Boek: QGIS Map Design](https://locatepress.com/qmd) door [Gretchen N. Peterson](https://www.gretchenpeterson.com/) en [Anita Graser](https://anitagraser.com/)
+
