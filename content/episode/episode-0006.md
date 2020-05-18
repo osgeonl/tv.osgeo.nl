@@ -15,10 +15,10 @@ Kijk de aflevering straks hier terug via YouTube.
 
 Uw Host & Kompas: Hans van der Kwast. Rubrieken:
 
-* Tammo Jan Dijkema - LOFAR
-* Mariëlle Geers- Hemelse Quiz
-* Marloes Mul (IHE) - Remote Sensing (onder voorbehoud)
-* Jonna - Geode / geodicht / topoëzie / rap
+* Tammo Jan Dijkema - "LOFAR op de Kaart"
+* Mariëlle Geers - "Hemelse Quiz"
+* Marloes Mul (IHE) - "Remote Sensing"
+* Jonna Bosch - Geode / geodicht / topoëzie / rap
 * Erik "Nico" Meerburg - Dit keer eens een Aardige column
 
 ### Uitslag Quiz
