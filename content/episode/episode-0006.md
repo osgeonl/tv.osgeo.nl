@@ -27,5 +27,14 @@ Komt hier.
 
 ### Links
 
+#### Tammo Jan Dijkema - LOFAR op de kaart
+
+* [Info over de mooie 25m-telescoop in Dwingeloo](https://www.camras.nl)
+* [Filmpje met mooie radiofoto's van LOFAR](https://www.youtube.com/watch?v=SBHzK7-xWyI)
+* [Notebook om uit AHN3 point cloud filmpje van Dwingeloo telescoop te maken](https://github.com/tammojan/ahn3-matplotlib/blob/master/ahn3pointcloud-dt.ipynb)
+* [Repository met QGIS-project van LOFAR](https://github.com/tammojan/lofarmap/)
+* [Scène Goldeneye in de Arecibo Radiotelescoop](https://www.youtube.com/watch?v=jp9tENRDVzA)
+* [LOFAR superterp op OpenStreetMap](https://www.openstreetmap.org/#map=15/52.9156/6.8624)
+
 Hieronder de links uit de aflevering.
 
