@@ -29,3 +29,16 @@ Komt hier.
 
 Hieronder de links uit de aflevering.
 
+#### Hans van der Kwast - Nieuwtjes
+
+* [QGIS 3.14 time handling and map animation demo - Nyall Dawson](https://youtu.be/vgDg5cRwPRw)
+* [What's new in GeoServer 2.17?](https://youtu.be/I903POjlIfM)
+* [MapScaping Podcast Geospatial Python - Anita Graser](https://mapscaping.com/blogs/the-mapscaping-podcast/geospatial-python)
+* [MapScaping Podcast Best Free GIS Apps for Data Collection - Kurt Menke](https://mapscaping.com/blogs/the-mapscaping-podcast/best-free-gis-apps-for-data-collection)
+* [6th International Symposium on Knowledge and Capacity for the Water Sector](https://capdevsymp.un-ihe.org/)
+
+#### Marloes Mul - Remote Sensing
+
+* [WaPOR, Remote Sensing for Water Productivity](http://www.fao.org/in-action/remote-sensing-for-water-productivity/en/)
+* [WaPOR Open Access Portal for Water Water Productivity (FAO)](https://wapor.apps.fao.org/home/WAPOR_2/1)
+
