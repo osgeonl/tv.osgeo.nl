@@ -4,9 +4,7 @@ date: 2020-05-21T09:09:00+02:00
 draft: true
 ---
 
-__Episode [#6 op 21 mei 2020, 16:00-17:00](/episode/episode-0006/) Hemel Special o.a. LOFAR en Remote Sensing!__  
-__Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__  
-__Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
+__Hemel Special o.a. LOFAR en Remote Sensing!__  
 
 ### Terugkijken
 Kijk de aflevering hier terug via YouTube.
