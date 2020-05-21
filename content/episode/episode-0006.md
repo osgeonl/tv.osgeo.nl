@@ -9,7 +9,9 @@ __Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__
 __Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
 
 ### Terugkijken
-Kijk de aflevering straks hier terug via YouTube.
+Kijk de aflevering hier terug via YouTube.
+
+{{< youtube 8qSTPE8Gkoc >}}
 
 ### Programma
 
