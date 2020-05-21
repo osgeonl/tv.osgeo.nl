@@ -26,6 +26,7 @@ Uw Host & Kompas: Hans van der Kwast. Rubrieken:
 Komt hier.
 
 ### Links
+Hieronder de links uit de aflevering.
 
 #### Tammo Jan Dijkema - LOFAR op de kaart
 
@@ -35,8 +36,6 @@ Komt hier.
 * [Repository met QGIS-project van LOFAR](https://github.com/tammojan/lofarmap/)
 * [Scène Goldeneye in de Arecibo Radiotelescoop](https://www.youtube.com/watch?v=jp9tENRDVzA)
 * [LOFAR superterp op OpenStreetMap](https://www.openstreetmap.org/#map=15/52.9156/6.8624)
-
-Hieronder de links uit de aflevering.
 
 #### Hans van der Kwast - Nieuwtjes
 
