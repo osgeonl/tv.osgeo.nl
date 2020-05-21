@@ -4,7 +4,7 @@ date: 2020-05-21T09:09:00+02:00
 draft: true
 ---
 
-## Hemel Special met o.a. LOFAR en Remote Sensing!  
+## Hemel Special met o.a. LOFAR en Remote Sensing (for Hydrology)!  
 
 ### Terugkijken
 Kijk de aflevering hier terug via YouTube.
@@ -15,10 +15,10 @@ Kijk de aflevering hier terug via YouTube.
 
 Uw Host & Kompas: Hans van der Kwast. Rubrieken:
 
-* Tammo Jan Dijkema - *"LOFAR op de Kaart"*
+* Tammo Jan Dijkema (astron.nl) - *"LOFAR op de Kaart"*
 * Jonna Bosch - *"Geode"*
 * Mariëlle Geers - *"Hemelse Quiz"*
-* Marloes Mul (IHE) - *"Remote Sensing"*
+* Marloes Mul (IHE Delft) - *"Remote Sensing for Hydrology"*
 * Erik "Nico" Meerburg - *"Hemelse Column"*
 
 ### Uitslag Quiz
