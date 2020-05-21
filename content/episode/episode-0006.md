@@ -25,7 +25,7 @@ Uw Host & Kompas: Hans van der Kwast. Rubrieken:
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0006/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 ### Links
 Hieronder de links uit de aflevering.
