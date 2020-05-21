@@ -4,7 +4,7 @@ date: 2020-05-21T09:09:00+02:00
 draft: true
 ---
 
-__Hemel Special o.a. LOFAR en Remote Sensing!__  
+## Hemel Special met o.a. LOFAR en Remote Sensing!  
 
 ### Terugkijken
 Kijk de aflevering hier terug via YouTube.
