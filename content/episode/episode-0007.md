@@ -17,7 +17,7 @@ Watch the episode back here later via YouTube.
 
 Uw Host & Kompas: Niene Boeijen. Rubrieken (Volgorde Onder Voorbehoud):
 
-* Chris Mayer (uit Dld, in Engels) van Meggsimum.de - GeoStyler  - map styling UI Components
+* Chris Mayer (uit Dld, in Engels) van https://Meggsimum.de - GeoStyler  - map styling UI Components
 * De Grote Geo Quiz - door Fabian Feijen - winnaar ep5.
 * Nadieh Bremer - https://www.visualcinnamon.com/ - Over haar geo-projecten via interview
 * Mariëlle Geers - Mariëlle's University "Demo complexe labels"
