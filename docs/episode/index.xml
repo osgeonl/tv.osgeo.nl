@@ -6,10 +6,25 @@
     <description>Recent content in Episodes on De Grote Geo Show</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <lastBuildDate>Thu, 21 May 2020 09:09:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 09:09:00 +0200</lastBuildDate>
     
 	<atom:link href="https://tv.osgeo.nl/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode #7 - 28 mei 2020 - 16:00-17:00 CEST</title>
+      <link>https://tv.osgeo.nl/episode/episode-0007/</link>
+      <pubDate>Tue, 26 May 2020 09:09:00 +0200</pubDate>
+      
+      <guid>https://tv.osgeo.nl/episode/episode-0007/</guid>
+      <description>Episode #7 op 28 mei 2020, 16:00-17:00 Styling en Visualisatie Special met o.a. Nadieh Bremer en Christian Mayer (DE)!
+Kijk live op Twitch: twitch.tv/osgeonl
+Of live op YouTube: OSGeo.nl Kanaal
+Terugkijken Kijk de aflevering hier straks terug via YouTube.
+Watch the episode back here later via YouTube.
+Programma Uw Host &amp;amp; Kompas: Niene Boeijen. Rubrieken (Volgorde Onder Voorbehoud):
+ Chris Mayer (uit Dld, in Engels) van Meggsimum.de - GeoStyler - map styling UI Components De Grote Geo Quiz - door Fabian Feijen - winnaar ep5.</description>
+    </item>
     
     <item>
       <title>Episode #6 - 21 mei 2020 - 16:00-17:00 CEST</title>
@@ -20,20 +35,6 @@
       <description>Hemel Special met o.a. LOFAR en Remote Sensing (for Hydrology)! Terugkijken Kijk de aflevering hier terug via YouTube.
   Programma Uw Host &amp;amp; Kompas: Hans van der Kwast. Rubrieken:
  Tammo Jan Dijkema (astron.nl) - &amp;ldquo;LOFAR op de Kaart&amp;rdquo; Jonna Bosch - &amp;ldquo;Geode&amp;rdquo; Mariëlle Geers - &amp;ldquo;Hemelse Quiz&amp;rdquo; Marloes Mul (IHE Delft) - &amp;ldquo;Remote Sensing for Hydrology&amp;rdquo; Erik &amp;ldquo;Nico&amp;rdquo; Meerburg - &amp;ldquo;Hemelse Column&amp;rdquo;  Uitslag Quiz Links Hieronder de links uit de aflevering.</description>
-    </item>
-    
-    <item>
-      <title>Episode #7 - 28 mei 2020 - 16:00-17:00 CEST</title>
-      <link>https://tv.osgeo.nl/episode/episode-0007/</link>
-      <pubDate>Thu, 21 May 2020 09:09:00 +0200</pubDate>
-      
-      <guid>https://tv.osgeo.nl/episode/episode-0007/</guid>
-      <description>Episode #7 op 28 mei 2020, 16:00-17:00 Styling en Visualisatie Special met o.a. Nadieh Bremer en Christian Mayer (DE)!
-Kijk live op Twitch: twitch.tv/osgeonl
-Of live op YouTube: OSGeo.nl Kanaal
-Terugkijken Kijk de aflevering hier straks terug via YouTube.
-Programma Uw Host &amp;amp; Kompas: Niene Boeijen. Rubrieken (Volgorde Onder Voorbehoud):
- Nadieh Bremer - https://www.visualcinnamon.com/ - Over haar geo-projecten Chris Mayer (D) van Meggsimum.de - GeoStyler - map styling UI Components De Grote Geo Quiz - door Fabian Feijen - winnaar ep5.</description>
     </item>
     
     <item>
