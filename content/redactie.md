@@ -31,6 +31,6 @@ Sorry that doc is mostly in Dutch, find also tips on StreamYard.com:
 
 De belangrijkste links zijn:
 
-* Link to StreamYard Episode 6 (May 21, 2020): https://streamyard.com/u2dikh4y79
+* Link to StreamYard Broadcast Studio Episode 7 (May 28, 2020): https://streamyard.com/p69ue67mk9
 * [Google Doc Levend DGGS Document](https://docs.google.com/document/d/1V_hUjofjRu3TPpmnAtJGaHID3qO9keof4al5y3nIgVs)
 * [Google Sheet Uitzendschema/Broadcast Scheme](https://docs.google.com/spreadsheets/d/15GsvJvJ5gTuaAK5son-kyPZnClOc7T3Qa6-LhFFppGk)
