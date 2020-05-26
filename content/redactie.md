@@ -14,10 +14,15 @@ Ivm met buitenlandse gasten delen in Engels.
 ## Eerste Keer - First Timer - Gast - Guest
 We use [StreamYard.com](https://streamyard.com) as a "Broadcast Studio in The Cloud". 
 This is different from Zoom, Jitsi etc: it is not a tele-conferencing but really a (virtual) studio.
-Basically we all connect to the same instance (via a unique weblink) at StreamYard.com and from
-there we compose the stage and stream live to Twitch and YouTube during broadcast hour (thu 16:00-17:00 CEST). 
+The good news is: you don't need to install anything! Just use a current browser (Chrome/Brave works best).
 
-There are some things you need to know, tips&trics, especially when first time in the show, read more here:
+Basically we all connect to the same instance (the "broadcast studio" via a unique weblink) 
+at StreamYard.com and there we stream (from our browsers) 
+to the "broadcast studio". StreamYard makes the composite video and streams
+live to Twitch and YouTube only during broadcast hour (thu 16:00-17:00 CEST). 
+
+There are some things you need to know, tips & tricks, especially when first 
+time in the show, read more here:
  
 [Sectie 4 van het Google Docs een Levend Document](https://docs.google.com/document/d/1V_hUjofjRu3TPpmnAtJGaHID3qO9keof4al5y3nIgVs#heading=h.6a3gipd4qkda).
 
