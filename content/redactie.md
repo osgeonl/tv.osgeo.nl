@@ -21,7 +21,7 @@ at StreamYard.com via a unique weblink. There we stream (from our browsers)
 to the "broadcast studio". StreamYard makes the composite video and will stream
 live to [Twitch](https://twitch.tv/osgeonl) and [YouTube](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g) but
 only during broadcast hour (thu 16:00-17:00 CEST). Not e.g. while preparing. 
-Viewers watch the show via YouTube and Twitch. The show is also recorded for later viewing YouTube.
+Viewers watch the show via YouTube and Twitch. The show is also recorded for later viewing on YouTube.
 
 There are some things you need to know, tips & tricks, especially when first 
 time in the show, read more here:
