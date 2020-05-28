@@ -5,13 +5,12 @@ draft: true
 ---
 
 __Episode [#7 op 28 mei 2020, 16:00-17:00](/episode/episode-0007/) Styling en Visualisatie Special met o.a. Nadieh Bremer en Christian Mayer (DE)!__  
-__Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__  
-__Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
 
 ### Terugkijken
-Kijk de aflevering hier straks terug via YouTube.
+Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
 
-Watch the episode back here later via YouTube.
+{{< youtube zXIfCLbuVlI >}}
+
 
 ### Programma
 
@@ -24,9 +23,10 @@ Uw Host & Kompas: Niene Boeijen. Rubrieken (Volgorde Onder Voorbehoud):
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0007/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 ### Links
+
 Hieronder de links uit de aflevering.
 
 
@@ -61,10 +61,9 @@ Enkele van mijn favorieten geo visualisaties:
 )    
 * Op mijn [Geoviz pinterest board](https://nl.pinterest.com/nadiehbremer/dataviz-geospatial/) sla ik eigenlijk alles op wat ik enigszins interessant vind!
 
-**Upcomming Events en podcasts**
+**Upcoming Events en podcasts**
 
 * [Mapscaping podcast with Anita Fraser](https://mapscaping.com/blogs/the-mapscaping-podcast/geospatial-python)
 * [Foss4GUK online event](https://uk.osgeo.org/foss4gukonline2020/)
 * [Inspire online conference](https://inspire.ec.europa.eu/conference2020/virtualprog)
-
 
