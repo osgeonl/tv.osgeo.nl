@@ -38,6 +38,20 @@ Hieronder de links uit de aflevering.
 * [Giant Tapestry of the world map](https://mymodernmet.com/botanical-tapestry-vanessa-barragao/) 
 * [Coronavirus deaths in the US](https://multimedia.scmp.com/infographics/news/world/article/3086433/us-covid19-100thousand-deaths/index.html)
 
+**Christian Mayer**
+
+On GeoStyler:
+
+* [Slides from the talk - PDF](/slides/episode-0007/geostyler_grote-geo-show_mayer.pdf)
+* FOSSGIS / FOSS4G talks on GeoStyler: https://media.ccc.de/search/?q=geoStyler
+* Demo client: https://geostyler.org
+* Code: https://github.com/geostyler
+* Docs: https://geostyler.github.io/geostyler/
+* npm: https://www.npmjs.com/package/geostyler
+* Beginner workshop (in the make): https://github.com/geostyler/geostyler-beginner-workshop
+* Advanced workshop: https://github.com/geostyler/geostyler-workshop
+
+
 **Nadieh Bremer**
 
 * Allereerste geo-viz ooit gemaakt: https://www.visualcinnamon.com/portfolio/urbanization
