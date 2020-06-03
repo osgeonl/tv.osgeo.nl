@@ -16,10 +16,10 @@ To be supplied after Show.
 Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
 * Peter van Wee (PeeWee) - "360 graden foto/Mapillary/JOSM"
+* Mariëlle Geers - QGIS Demo
 * De Grote Geo Quiz - door Willem Hoffmans
 * Frank Verschoor (Geonovum) - "Ethische referentie verantwoord gebruik locatiedata" 
-* Mariëlle Geers - QGIS Demo
-* Erik, "Nico" Meerburg - Column (onder voorbehoud)
+* Erik, "Nico" Meerburg - Column 
 
 ### Uitslag Quiz
 
