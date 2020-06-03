@@ -9,16 +9,17 @@ __Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6u
 ### Terugkijken
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
 
-Toe be supplied after Show.
+To be supplied after Show.
 
 ### Programma
 
-Uw Host & Kompas: Niene Boeijen. Rubrieken (Onder Voorbehoud):
+Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
-* Peter van Wee (PeeWee) - Mapillary advanced met 3
+* Peter van Wee (PeeWee) - "360 graden foto/Mapillary/JOSM"
 * De Grote Geo Quiz - door Willem Hoffmans
+* Frank Verschoor (Geonovum) - "Ethische referentie verantwoord gebruik locatiedata" 
 * Mariëlle Geers - QGIS Demo
-* Iemand van Geonovum over Geo-Data Ethiek
+* Erik, "Nico" Meerburg - Column (onder voorbehoud)
 
 ### Uitslag Quiz
 
