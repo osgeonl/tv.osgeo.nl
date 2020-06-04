@@ -24,7 +24,7 @@ Uw Host & Kompas: Niene Boeijen. Rubrieken:
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0008/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 ### Links
 
