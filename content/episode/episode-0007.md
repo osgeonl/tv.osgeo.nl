@@ -75,6 +75,10 @@ Enkele van mijn favorieten geo visualisaties:
 )    
 * Op mijn [Geoviz pinterest board](https://nl.pinterest.com/nadiehbremer/dataviz-geospatial/) sla ik eigenlijk alles op wat ik enigszins interessant vind!
 
+**Mariëlle Geers - QGIS Tutorial**
+
+* [Complexe labels maken in QGIS](https://youtu.be/kIEtY_8KL-0)
+
 **Upcoming Events en podcasts**
 
 * [Mapscaping podcast with Anita Fraser](https://mapscaping.com/blogs/the-mapscaping-podcast/geospatial-python)
