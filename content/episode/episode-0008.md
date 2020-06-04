@@ -4,6 +4,8 @@ date: 2020-06-04T09:09:00+02:00
 draft: true
 ---
 
+__Met o.a. Peter van Wee Mapillary-JOSM en Frank Verschoor over (Geo)Data Ethiek__   
+
 ### Terugkijken
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
 
