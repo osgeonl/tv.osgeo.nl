@@ -40,6 +40,8 @@ Hieronder de links uit de aflevering.
 
 * [Foto's met opmerkingen in QGIS plaatsen](https://youtu.be/29EBLbuStLM)
 
+{{< youtube 29EBLbuStLM >}}
+
 **Frank Verschoor**
 
 Denk mee over de [Consultatie Ethische referentie toepassen locatiedata](https://www.geonovum.nl/over-geonovum/actueel/consultatie-ethische-referentie-toepassen-locatiedata)

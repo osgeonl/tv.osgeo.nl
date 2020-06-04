@@ -79,6 +79,8 @@ Enkele van mijn favorieten geo visualisaties:
 
 * [Complexe labels maken in QGIS](https://youtu.be/kIEtY_8KL-0)
 
+{{< youtube kIEtY_8KL-0 >}}
+
 **Upcoming Events en podcasts**
 
 * [Mapscaping podcast with Anita Fraser](https://mapscaping.com/blogs/the-mapscaping-podcast/geospatial-python)
