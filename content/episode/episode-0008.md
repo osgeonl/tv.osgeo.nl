@@ -38,6 +38,7 @@ Hieronder de links uit de aflevering.
 
 **Peter van Wee (PeeWee) - Mapillary met JOSM Workflows**
 
+* [Presentatie slides - PDF](/slides/episode-0008/petervwee-mapillary-josm.pdf)
 * Mapillary: https://www.mapillary.com/
 * JOSM OpenStreetMap Editor: https://josm.openstreetmap.de/
 * [Mapillary gecombineerd met OSM/Wikipedia](https://tankaru.github.io/Street-level-POI-Viewer/viewer.html#16/52.1565/5.3894)
