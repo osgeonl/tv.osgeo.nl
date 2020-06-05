@@ -36,6 +36,15 @@ Hieronder de links uit de aflevering.
 * [Du Bois’ staggering Data Visualizations are as powerful today as they were in 1900](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4)
 * [GDAL: The Open Source Technology Behind Google Maps](https://thenewstack.io/gdal-the-open-source-technology-behind-google-maps/)
 
+**Peter van Wee (PeeWee) - Mapillary met JOSM Workflows**
+
+* Mapillary: https://www.mapillary.com/
+* JOSM OpenStreetMap Editor: https://josm.openstreetmap.de/
+* [Mapillary gecombineerd met OSM/Wikipedia](https://tankaru.github.io/Street-level-POI-Viewer/viewer.html#16/52.1565/5.3894)
+* En nog meer: [Mapillary toepassingen van Tankaru](https://tankaru.github.io/mapillarytools.html)
+* Voor 360 graden fotografie zijn deze YouTube kanalen wel leuk: https://www.youtube.com/channel/UCAjSHLRJcDfhDSu7WRpOu-w en https://www.youtube.com/channel/UCd0Yn5SKGaujdXCwk2TwmoA
+* Fotogeotag tool van Javawa (heeft nog veel meet GPS gerelateerde tools) : http://www.javawa.nl/fotogeotag.html
+
 **Mariëlle Geers - QGIS Tutorial**
 
 * [Foto's met opmerkingen in QGIS plaatsen](https://youtu.be/29EBLbuStLM)
