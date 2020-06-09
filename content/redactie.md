@@ -38,6 +38,6 @@ Sorry that doc is mostly in Dutch, find also tips on StreamYard.com:
 
 De belangrijkste links zijn:
 
-* Link to StreamYard Broadcast Studio Episode 8 (Juno 4, 2020): https://streamyard.com/tcutv7p99e
+* Link to StreamYard Broadcast Studio Episode 9 - QGIS Special - (Juno 11, 2020): https://streamyard.com/rshmu9nksh
 * [Google Doc Levend DGGS Document](https://docs.google.com/document/d/1V_hUjofjRu3TPpmnAtJGaHID3qO9keof4al5y3nIgVs)
 * [Google Sheet Uitzendschema/Broadcast Scheme](https://docs.google.com/spreadsheets/d/15GsvJvJ5gTuaAK5son-kyPZnClOc7T3Qa6-LhFFppGk)
