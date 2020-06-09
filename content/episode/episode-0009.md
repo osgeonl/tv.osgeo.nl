@@ -4,7 +4,10 @@ date: 2020-06-04T09:09:00+02:00
 draft: true
 ---
 
-__QGIS Special verzorgd door QGIS NL Gebruikersgroep!__
+__QGIS Special verzorgd door QGIS NL Gebruikersgroep!__  
+__Kijk live op Twitch: [twitch.tv/osgeonl](https://twitch.tv/osgeonl)__    
+__Of live op YouTube: [OSGeo.nl Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)__
+
 
 ![alt text](/images/episode-0009/anita-tweet-1.png "Anita Graser Aankondiging")
 
@@ -13,9 +16,12 @@ Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTu
 
 ### Programma
 
-Uw Host & Kompas: .. Rubrieken:
+Uw Host & Kompas: Raymond Nijssen. Rubrieken:
 
-* [ANITA GRASER](https://anitagraser.com/)
+* Mariëlle Geers - QGISQuiz
+* [ANITA GRASER](https://anitagraser.com/) (in Engels) - _"New time support in QGIS 3.14"_
+* Hans' University - ongetwijfeld iets over QGIS
+* Team hackfest over de QGIS Contributor Meeting
 
 ### Uitslag Quiz
 
