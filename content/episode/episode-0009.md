@@ -18,10 +18,10 @@ Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTu
 
 Uw Host & Kompas: Raymond Nijssen. Rubrieken:
 
-* Mariëlle Geers - QGISQuiz
+* Mariëlle Geers - _"QGISQuiz"_
 * [ANITA GRASER](https://anitagraser.com/) (in Engels) - _"New time support in QGIS 3.14"_
-* Hans' University - ongetwijfeld iets over QGIS
-* Team hackfest over de QGIS Contributor Meeting
+* Hans' University - _ongetwijfeld iets over QGIS_
+* Team Hackfest over de QGIS Contributor Meeting
 
 ### Uitslag Quiz
 
