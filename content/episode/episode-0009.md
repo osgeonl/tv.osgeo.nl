@@ -16,7 +16,7 @@ Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTu
 
 ### Programma
 
-Uw Host & Kompas: Raymond Nijssen. Rubrieken:
+Uw Host & Kompas: Raymond. Rubrieken:
 
 * Mariëlle Geers - _"QGISQuiz"_
 * [ANITA GRASER](https://anitagraser.com/) (in Engels) - _"New time support in QGIS 3.14"_

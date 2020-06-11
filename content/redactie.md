@@ -17,7 +17,7 @@ This is different from Zoom, Jitsi etc: it is not a tele-conferencing but really
 The good news is: you don't need to install anything! Just use a current browser (Chrome/Brave works best).
 
 Basically we all connect to the same instance, the "broadcast studio"  
-at StreamYard.com via a unique weblink. There we stream (from our browsers) 
+at StreamYard.com via a unique weblink (see "Links" below). There we stream (from our browsers) 
 to the "broadcast studio". StreamYard makes the composite video and will stream
 live to [Twitch](https://twitch.tv/osgeonl) and [YouTube](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g) but
 only during broadcast hour (thu 16:00-17:00 CEST). Not e.g. while preparing. 
