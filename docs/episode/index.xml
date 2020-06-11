@@ -6,10 +6,23 @@
     <description>Recent content in Episodes on De Grote Geo Show</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <lastBuildDate>Thu, 04 Jun 2020 09:09:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 09:09:00 +0200</lastBuildDate>
     
 	<atom:link href="https://tv.osgeo.nl/episode/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode #9 - 11 juno 2020 - 16:00-17:00 CEST</title>
+      <link>https://tv.osgeo.nl/episode/episode-0009/</link>
+      <pubDate>Thu, 11 Jun 2020 09:09:00 +0200</pubDate>
+      
+      <guid>https://tv.osgeo.nl/episode/episode-0009/</guid>
+      <description>QGIS Special verzorgd door QGIS NL Gebruikersgroep!
+Met ANITA GRASER a.k.a. underdark - Jawel!
+Terugkijken Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
+  Programma Uw Host &amp;amp; Kompas: Raymond. Rubrieken:
+ Mariëlle Geers - &amp;ldquo;QGISQuiz&amp;rdquo; ANITA GRASER (in Engels) - &amp;ldquo;New time support in QGIS 3.14&amp;rdquo; Hans&amp;rsquo; University - ongetwijfeld iets over QGIS Team Hackfest over de QGIS Contributor Meeting  Uitslag Quiz Links Hieronder de links uit de aflevering.</description>
+    </item>
     
     <item>
       <title>Episode #8 - 4 juno 2020 - 16:00-17:00 CEST</title>
@@ -21,19 +34,6 @@
 Terugkijken Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
   Programma Uw Host &amp;amp; Kompas: Niene Boeijen. Rubrieken:
  Peter van Wee (PeeWee) - &amp;ldquo;360 graden foto/Mapillary/JOSM&amp;rdquo; Mariëlle Geers - QGIS Demo De Grote Geo Quiz - door Willem Hoffmans Frank Verschoor (Geonovum) - &amp;ldquo;Ethische referentie verantwoord gebruik locatiedata&amp;rdquo; Erik, &amp;ldquo;Nico&amp;rdquo; Meerburg - Column - Reageert live op uitzending!</description>
-    </item>
-    
-    <item>
-      <title>Episode #9 - 11 juno 2020 - 16:00-17:00 CEST</title>
-      <link>https://tv.osgeo.nl/episode/episode-0009/</link>
-      <pubDate>Thu, 04 Jun 2020 09:09:00 +0200</pubDate>
-      
-      <guid>https://tv.osgeo.nl/episode/episode-0009/</guid>
-      <description>QGIS Special verzorgd door QGIS NL Gebruikersgroep!
-Kijk live op Twitch: twitch.tv/osgeonl Of live op YouTube: OSGeo.nl Kanaal
-Terugkijken Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
-Programma Uw Host &amp;amp; Kompas: Raymond. Rubrieken:
- Mariëlle Geers - &amp;ldquo;QGISQuiz&amp;rdquo; ANITA GRASER (in Engels) - &amp;ldquo;New time support in QGIS 3.14&amp;rdquo; Hans&amp;rsquo; University - ongetwijfeld iets over QGIS Team Hackfest over de QGIS Contributor Meeting  Uitslag Quiz Komt hier.</description>
     </item>
     
     <item>
