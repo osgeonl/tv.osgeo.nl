@@ -15,8 +15,8 @@ Uw Host & Kompas: Niene Boeijen Rubrieken:
 
 * Raymond maakt de  _"Quiz"_
 * Willem Hoffmans - _Fietsroutes maken met QGIS en OSM_
-* Marielle Geers - *Demo Vakantie Kleurplaat*
-* Jonna - _Topoezie_
+* Mariëlle Geers - *Demo Vakantie Kleurplaat*
+* Jonna - _Topoëzie_
 * En vast nog meer.
 
 ### Uitslag Quiz
