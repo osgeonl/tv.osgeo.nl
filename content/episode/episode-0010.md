@@ -20,7 +20,8 @@ Uw Host & Kompas: Niene Boeijen Rubrieken:
 * Jonna - _Topoëzie_
 * Statistieken - De Kijkcijfers!
 * Kijkers' Feedback & Evaluatie
-* Bloopers & Geobier
+* Bloopers
+* AFTERPARTY - Jitsi Link Komt in Uitzending
 
 ### Uitslag Quiz
 
