@@ -41,3 +41,4 @@ De belangrijkste links zijn:
 * Link to StreamYard Broadcast Studio Episode 10 - Vakantie Special - (Juno 18, 2020): https://streamyard.com/rjiexj8fs3
 * [Google Doc Levend DGGS Document](https://docs.google.com/document/d/1V_hUjofjRu3TPpmnAtJGaHID3qO9keof4al5y3nIgVs)
 * [Google Sheet Uitzendschema/Broadcast Scheme](https://docs.google.com/spreadsheets/d/15GsvJvJ5gTuaAK5son-kyPZnClOc7T3Qa6-LhFFppGk)
+* Statistieken: [Google Sheet Statistieken](https://docs.google.com/spreadsheets/d/1gDhfI4D8Wqjzduy8CavPzS7vt0LGBC8lPJEx0yEyvwQ)

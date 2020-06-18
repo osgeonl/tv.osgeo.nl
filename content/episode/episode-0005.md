@@ -13,7 +13,7 @@ Kijk de aflevering hier terug via YouTube.
 
 Uw Host & Kompas: Erik Meerburg. Rubrieken:
 
-* Ravi Peeters TU Delft 3D - "3D Gebouw Reconstructie uit BAG+AHN3"
+* Ravi Peters TU Delft 3D - "3D Gebouw Reconstructie uit BAG+AHN3"
 * Mariëlle Geers-Mariëlle's University - "QGIS Map design+demo bivariabele choropleet"
 * Willem Hoffmans - De Grote Geo Quiz - MUZIEK SPECIAL (via Kahoot.it).
 * Peter van Wee - "Mapillary" (de Open Data StreetView)
@@ -31,7 +31,7 @@ Hieronder de links uit de aflevering.
 
 * [VPRO: MediaLab maakt AI Song voor AI songfestival: Abbus met Willie Wartaal](https://www.vpro.nl/medialab/projecten/overzicht/Abbus-videoclip.html)
 
-#### Ravi Peeters - "3D Gebouw Reconstructie uit BAG+AHN3"
+#### Ravi Peters - "3D Gebouw Reconstructie uit BAG+AHN3"
 
 * [Presentatie met klikbare Links - Google Slides](https://docs.google.com/presentation/d/1r82mDnktcaiRL7sOq7HbEf7O7uBhUSIY358VD862Y34)
 

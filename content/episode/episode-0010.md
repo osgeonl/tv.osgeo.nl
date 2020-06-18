@@ -13,11 +13,11 @@ Kijk de aflevering hier later terug via YouTube. Watch the episode back here via
 
 Uw Host & Kompas: Niene Boeijen Rubrieken:
 
-* Raymond maakt de  _"Quiz"_
 * Willem Hoffmans - _Fietsroutes maken met QGIS en OSM_
-* Mariëlle Geers - *Demo Vakantie Kleurplaat*
+* Mariëlle Geers - _Demo Vakantie Kleurplaat_
+* Raymond maakt de  _"Grote Geo Quiz"_
+* Niene Boeijen - _MapBox Styling met D3.js_
 * Jonna - _Topoëzie_
-* En vast nog meer.
 
 ### Uitslag Quiz
 
