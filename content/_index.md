@@ -10,7 +10,8 @@ Iedere donderdag 16:00-17:00.
 Gedurende april-juni 2020 hebben we [10 afleveringen]((/episode/)) verzorgd.
  
 __Volgende aflevering: Wordt Na De Zomerstop, Blijf ons Volgen!__  
-__Kijk Afgelopen/Laatste Episode [#10 op 18 juno 2020, 16:00-17:00](/episode/episode-0010/) Laatste DGGS (voor Zomerstop) - De Vakantie Special!__
+__Kijk Afgelopen/Laatste Episode [#10 op 18 juno 2020, 16:00-17:00](/episode/episode-0010/)__  
+__Laatste DGGS (voor Zomerstop) - De Vakantie Special!__
 
 __Gemist? Kijk [alle 10 Episodes met info/links](/episode/) terug.__
 
