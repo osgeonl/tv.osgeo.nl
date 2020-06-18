@@ -4,9 +4,8 @@ featured_image: '/images/dggs-logo2.jpg'
 description: ""
 ---
 
-Welkom op de website van De Grote Geo Show (DGGS), een wekelijkse
-livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld. 
-Iedere donderdag 16:00-17:00.  
+Welkom op de website van De Grote Geo Show (DGGS), een wekelijkse  
+livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.   
 Gedurende april-juni 2020 hebben we [10 afleveringen]((/episode/)) verzorgd.
  
 __Volgende aflevering: Wordt Na De Zomerstop, Blijf ons Volgen!__  
