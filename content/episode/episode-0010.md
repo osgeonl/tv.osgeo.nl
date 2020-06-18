@@ -7,7 +7,10 @@ draft: true
 __Laatste Show voor Zomerstop: Vakantie Special!__  
 
 ### Terugkijken
-Kijk de aflevering hier later terug via YouTube. Watch the episode back here via YouTube.
+Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
+
+{{< youtube 1c54nnnWBQQ >}}
+
 
 ### Programma
 
@@ -25,8 +28,13 @@ Uw Host & Kompas: Niene Boeijen Rubrieken:
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0010/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 ### Links
 
 Hieronder de links uit de aflevering.
+
+#### Mariëlle Geers
+
+{{< youtube tp4aOas06zE >}}
+
