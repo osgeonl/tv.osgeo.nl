@@ -18,6 +18,9 @@ Uw Host & Kompas: Niene Boeijen Rubrieken:
 * Raymond maakt de  _"Grote Geo Quiz"_
 * Niene Boeijen - _MapBox Styling met D3.js_
 * Jonna - _Topoëzie_
+* Statistieken - De Kijkcijfers!
+* Kijkers' Feedback & Evaluatie
+* Bloopers & Geobier
 
 ### Uitslag Quiz
 
