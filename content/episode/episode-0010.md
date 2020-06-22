@@ -34,7 +34,18 @@ Uw Host & Kompas: Niene Boeijen Rubrieken:
 
 Hieronder de links uit de aflevering.
 
+#### Willem Hoffmans
+
+_Fietsroutes maken met QGIS en OSM_
+
+{{< youtube zQXVu84Jkho >}}
+
 #### Mariëlle Geers
+
+_Demo Vakantie Kleurplaat_
 
 {{< youtube tp4aOas06zE >}}
 
+#### Niene Boeijen 
+
+[MapBox Styling met D3.js - blog](https://nieneb.nl/online-projects/colorscales/)
