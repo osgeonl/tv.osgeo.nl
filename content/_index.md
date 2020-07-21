@@ -6,7 +6,7 @@ description: ""
 
 Welkom op de website van De Grote Geo Show (DGGS), een wekelijkse  
 livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.   
-Gedurende april-juni 2020 hebben we [10 afleveringen]((/episode/)) verzorgd.
+Gedurende april-juni 2020 hebben we [10 afleveringen](/episode/) verzorgd.
  
 __Volgende aflevering: Wordt Na De Zomerstop__  
 __Gemist? Bekijk laatste Episode [#10 op 18 juno 2020 De Vakantie Special!](/episode/episode-0010/)__  
