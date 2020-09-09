@@ -12,7 +12,7 @@ In april-juni 2020 de [eerste 10 afleveringen](/episode/) uitgezonden.
 
 We draaien door! [Hier meer](https://geoforum.nl/t/de-grote-geo-show-draait-door/4744).
  
-__Volgende aflevering: Elke 1e donderdag vd maand 19:00-21:00, start 1 okt 2020__  
+__Elke 1e donderdag vd maand 19:00-21:00, volgende: 1 okt 2020__  
 
 __Gemist? Kijk [alle Episodes met info/links](/episode).__ 
  
