@@ -12,7 +12,7 @@ En we gaan door! [Lees hier meer](https://geoforum.nl/t/de-grote-geo-show-draait
 __Volgende aflevering: Elke 1e donderdag vd maand 19:00-21:00, start 1 okt 2020__  
 
 __Gemist? Kijk [alle Episodes met info/links](/episode).__  
-__Binge-Watchen? Onderga [de complete DGGS Playlist op YouTube](https://www.youtube.com/playlist?list=PLJMEnRQpAfZqCkhGh3lb3KUnXssK7Sk6C)!__
+__Binge-Watchen? [De complete DGGS Playlist op YouTube](https://www.youtube.com/playlist?list=PLJMEnRQpAfZqCkhGh3lb3KUnXssK7Sk6C)!__
 
 ![alt text](/images/screenshots/episode-1-10.png "Episode #1-#10")
 
