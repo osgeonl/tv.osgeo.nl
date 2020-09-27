@@ -7,13 +7,10 @@ description: ""
 Welkom bij de De Grote Geo Show (DGGS).
    
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
-   
-In april-juni 2020 de [eerste 10 afleveringen](/episode/) uitgezonden. 
 
 __Nu Elke 1e donderdag vd maand 19:00-21:00, volgende: 1 okt 2020__ 
 
-We draaien door, volgende aflevering 1 oktober 2020!
-[Programma 1 oktober](/content/episode/episode-011) 
+[Programma 1 oktober 2020](/content/episode/episode-011/) 
  
 __Gemist? Kijk [alle Episodes met info/links](/episode).__ 
  

@@ -26,7 +26,7 @@ Uw Talkshow Host: Erik Meerburg!
 
 ### Uitslag Quiz
 
-KOmt hier.
+Komt hier.
 
 ### Links
 
