@@ -10,7 +10,7 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 __Nu Elke 1e donderdag vd maand 19:00-21:00, volgende: 1 okt 2020__ 
 
-__[Programma 1 oktober 2020](/episode/episode-0011/) __De Zomer Voorbij en (OGC) API's Kijken__
+__[Programma 1 okt 2020](/episode/episode-0011/) De Zomer Voorbij en (OGC) API's Kijken__
  
 __Gemist? Kijk [alle Episodes met info/links](/episode).__ 
  
