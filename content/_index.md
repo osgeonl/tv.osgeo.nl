@@ -14,7 +14,7 @@ __[Programma 1 okt 2020](/episode/episode-0011/) De Zomer Voorbij en (OGC) API's
  
 __Gemist? Kijk [alle Episodes met info/links](/episode).__ 
  
-__Binge-Watchen? [Kijk De complete DGGS Playlist op YouTube](https://www.youtube.com/playlist?list=PLJMEnRQpAfZqCkhGh3lb3KUnXssK7Sk6C)!__
+__Binge-Watchen? [De complete DGGS Playlist op YouTube](https://www.youtube.com/playlist?list=PLJMEnRQpAfZqCkhGh3lb3KUnXssK7Sk6C)!__
 
 ![alt text](/images/screenshots/episode-1-10.png "Episode #1-#10")
 
