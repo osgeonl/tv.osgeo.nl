@@ -11,18 +11,18 @@ Kijk de aflevering hier (later) terug via YouTube. Watch the episode back here v
 
 ### Programma
 
-Thema Uitzending: Algemeen - en "(OGC) API's Kijken" 
+Thema Uitzending: __"De Zomer Voorbij - en (OGC) API's Kijken"__ 
 
-Uw Talkshow Host: Erik Meerburg!
+Uw Talkshow Host: __Erik Meerburg!__
 
 - Opening: Geo-Events tijdens en voor en na de zomer - door Erik
-- API's Kijken: Interview met Linda vd Brink (Geonovum)  - door Niene - Spatial Data on the Web/OGC APIs
+- API's Kijken: Interview met __Linda van den Brink (Geonovum)__  - door Niene - Spatial Data on the Web/OGC APIs
 - API's Kijken: Kort gedichtje door Jonna - over API's Apen 
-- API's Kijken: Interview Tom Kralidis - door Just - implementation of OGC APIs - pygeoapi - real world examples
-- De Grote Geo Quiz - "Voorbij De Zomer" - door Marielle Geers
-- Interview met Just - Open Source als Manier van Leven - door Jonna
-- Marielle's University  - over M1M0 - Coderen Leren Kan Leuk Zijn ! https://getmimo.com/
-- De Zeepkist - Kom in de show! Open Vloer. Wie wil en durft!
+- API's Kijken: Interview __Tom Kralidis__ - door Just - implementation of OGC APIs - pygeoapi - real world examples
+- __De Grote Geo Quiz__ - "Voorbij De Zomer" - door Marielle Geers
+- Interview met Just van den Broecke - __Open Source als Manier van Leven__ - door Jonna
+- Marielle's University  - over M1M0 - __Coderen Leren Kan Leuk Zijn!__ https://getmimo.com/
+- __De Zeepkist__ - Kom in de show! Open Vloer. Wie wil en durft!
 
 ### Uitslag Quiz
 
