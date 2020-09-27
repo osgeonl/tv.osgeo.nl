@@ -10,7 +10,7 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 __Nu Elke 1e donderdag vd maand 19:00-21:00, volgende: 1 okt 2020__ 
 
-[Programma 1 oktober 2020](/content/episode/episode-011/) 
+[Programma 1 oktober 2020](/episode/episode-011/) 
  
 __Gemist? Kijk [alle Episodes met info/links](/episode).__ 
  
