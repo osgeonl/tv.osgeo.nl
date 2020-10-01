@@ -41,6 +41,11 @@ Hieronder de links uit de aflevering.
 
 * _M1M0_  https://getmimo.com/
 
+#### Zeepkist
+
+* Erwin Folmer: *"Knowledge Graphs in Action: DBpedia, Linked Geodata and Geo-information Integration"* October 6, 2020 - 10:00-18:00 Netherlands - https://wiki.dbpedia.org/meetings/KnowledgeGraphsInAction
+* Niene: *"Denk mee over Vector Tiling Standaard NL"* - 28 oktober - [hier is de link](https://geoforum.nl/t/28-oktober-10-00-12-30-denk-mee-vorming-praktijkrichtlijn-vector-tiles-vooraankondiging/4810/12) 
+
 #### Mededelingen - Events - Erik Meerburg
 
 https://www.patreon.com/posts/41285357 voor Kristin Henry
