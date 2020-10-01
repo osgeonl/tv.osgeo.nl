@@ -6,15 +6,9 @@ draft: true
 
 __Eerste Show na Zomerstop: We Zijn Er Weer!__  
 
-### Kijken
-
-Kijk live (en chat mee) op:
- 
- * het [OSGeoNL Kanaal op YouTube](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g/) of 
- * het [OSGeoNL Kanaal op Twitch.tv](https://www.twitch.tv/osgeonl) 
-
-### Terugkijken
-Kijk de aflevering hier (later) terug via YouTube. Watch the episode back here via YouTube.
+### Terugkijken/Watch Back
+Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
+{{< youtube 3l_a5Up8Rgc >}}
 
 ### Programma
 
