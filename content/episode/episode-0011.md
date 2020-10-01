@@ -41,3 +41,16 @@ Hieronder de links uit de aflevering.
 
 * _M1M0_  https://getmimo.com/
 
+#### Mededelingen - Events - Erik Meerburg
+
+https://www.patreon.com/posts/41285357 voor Kristin Henry
+
+https://graphichuntersshow.nl/
+
+https://geobusje.nl/
+
+https://github.com/tjukanovt/30DayMapChallenge
+
+https://geohipster.com/2021-geohipster-calendar/
+
+https://thegeomob.com/post/oct-14th-2020-geomob-details
