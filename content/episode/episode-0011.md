@@ -65,14 +65,9 @@ Hieronder de links uit de aflevering.
 
 #### Mededelingen - Events - Erik Meerburg
 
-https://www.patreon.com/posts/41285357 voor Kristin Henry
-
-https://graphichuntersshow.nl/
-
-https://geobusje.nl/
-
-https://github.com/tjukanovt/30DayMapChallenge
-
-https://geohipster.com/2021-geohipster-calendar/
-
-https://thegeomob.com/post/oct-14th-2020-geomob-details
+* https://www.patreon.com/posts/41285357 voor Kristin Henry
+* https://graphichuntersshow.nl/
+* https://geobusje.nl/
+* https://github.com/tjukanovt/30DayMapChallenge
+* https://geohipster.com/2021-geohipster-calendar/
+* https://thegeomob.com/post/oct-14th-2020-geomob-details
