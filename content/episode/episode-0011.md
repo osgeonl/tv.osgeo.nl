@@ -27,7 +27,9 @@ Uw Talkshow Host: __Erik Meerburg!__
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0011/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
+
+En "GB" uitgeroepen tot winnaar vanwege tijdvoordeel panel-leden.
 
 ### Links
 
@@ -36,6 +38,21 @@ Hieronder de links uit de aflevering.
 #### Linda vd Brink - Spatial Data on the Web/OGC APIs
 
 * Spatial Data on the Web Best Practices - https://www.w3.org/TR/sdw-bp/
+
+#### Interview met Tom Kralidis over pygeoapi door Just
+
+* Slides: https://pygeoapi.io/presentations/default/
+* Home: https://pygeoapi.io
+* Docs: https://docs.pygeoapi.io
+* Demo: https://demo.pygeoapi.io
+* GitHub: https://github.com/geopython/pygeoapi
+* Docker: https://hub.docker.com/r/geopython/pygeoapi
+* Chat: https://gitter.im/geopython/pygeoapi
+* Mail: https://lists.osgeo.org/mailman/listinfo/pygeoapi
+
+#### Interview met Just door Jonna
+
+* Slides: https://www.slideshare.net/justb4/justs-career-highlights
 
 #### Mariëlle Geers - Marielle's University
 
