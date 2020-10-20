@@ -10,6 +10,8 @@ __DGGS goes Maptime!__
 
 Thema Uitzending: __"DGGS goes Maptime!"__ 
 
+![alt text](/images/episode-0012/twitter_image.png)
+
 Uw Talkshow Host: __Niene Boeijen!__
 
 Special guests & critical panel: [Topi Tjukanov](https://tjukanov.org/) & [Naomi Bueno de Mesquita](https://performativemapping.com/)
@@ -22,6 +24,9 @@ Special guests & critical panel: [Topi Tjukanov](https://tjukanov.org/) & [Naomi
 - __De Grote Geo Quiz__ - door Marielle Geers
 - __De Grote Mapping Mondkapjes Modeshow!__ Stuur jouw (kaart gerelateerde) mondkapjes foto in voor de GMMM!  
 - __De Zeepkist__ - Kom in de show! Open Vloer. Wie wil en durft! Wat voor mooie kaarten maak jij?
+
+
+
 
 
 ## Links
