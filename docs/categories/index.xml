@@ -5,10 +5,6 @@
     <link>https://tv.osgeo.nl/categories/</link>
     <description>Recent content in Categories on De Grote Geo Show</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-nl</language>
-    
-	<atom:link href="https://tv.osgeo.nl/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>nl-nl</language><atom:link href="https://tv.osgeo.nl/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
