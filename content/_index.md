@@ -8,11 +8,25 @@ Welkom bij de De Grote Geo Show (DGGS).
    
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
-__Elke 1e donderdag vd maand 19:00-21:00, volgende: 5 nov 2020 MapTime Special!__ 
+__Elke 1e donderdag vd maand 19:00-21:00__
 
-__[Programma: ](/episode/episode-0011/) "De Zomer Voorbij en (OGC) API's Kijken"__
+Volgende aflevering:  
+
+# __[__5 nov 2020__ ](/episode/episode-0012/)__
+
+# __[DGGS goes Maptime!](/episode/episode-0012/)__
+
+## __[Programma E12](/episode/episode-0012/)__
  
-__Laatste: 1 okt is net geweest, maar kijk terug/watch back:__
+
+Meedoen? Zeepkist? Ideeën? Inzendingen? Een event aankondiging in de show?
+
+Neem [Contact](/contact/) met ons op. 
+
+
+
+ -----
+__Kijk de episode van 1 okt terug/watch back:__
  
 {{< youtube 3l_a5Up8Rgc >}}
 

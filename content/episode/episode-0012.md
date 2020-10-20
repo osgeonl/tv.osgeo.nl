@@ -19,9 +19,9 @@ Special guests & critical panel: [Topi Tjukanov](https://tjukanov.org/) & [Naomi
 - Opening: Geo-events, #30DayMapChallenge and other remarkabel maps on the web - Niene Boeijen 
 - __Xenocartography, neogeography & colorful pixels__ - [Topi Tjukanov](https://tjukanov.org/)
     - Live making of [#30MapChallenge](https://github.com/tjukanovt/30DayMapChallenge)- Day 5: Blue - By [Topi Tjukanov](https://tjukanov.org/)
-- __Critical Cartography__ a conversation with [Naomi Bueno de Mesquita](https://performativemapping.com/)
+- __Critical Cartography__ a conversation with [Naomi Bueno de Mesquita](http://performativemapping.com/)
     - [Weg Wandelen](https://mindyourstep.performativemapping.net/)- Naomi Bueno de Mesquita
-- __De Grote Geo Quiz__ - door Marielle Geers
+- __De Grote Geo Quiz__ - Map Quiz - door Marielle Geers
 - __De Grote Mapping Mondkapjes Modeshow!__ Stuur jouw (kaart gerelateerde) mondkapjes foto in voor de GMMM!  
 - __De Zeepkist__ - Kom in de show! Open Vloer. Wie wil en durft! Wat voor mooie kaarten maak jij?
 
