@@ -10,7 +10,7 @@ __DGGS goes Maptime!__
 
 Thema Uitzending: __"DGGS goes Maptime!"__ 
 
-# __Let op: aanvang 18:30 dit keer!__
+__Let op: aanvang 18:30 dit keer!__
 
 ![alt text](/images/episode-0012/twitter_image.png)
 

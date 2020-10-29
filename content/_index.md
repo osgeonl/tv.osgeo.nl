@@ -16,7 +16,7 @@ Volgende aflevering:
 
 # __[DGGS goes Maptime!](/episode/episode-0012/)__
 
-# __Let op: aanvang 18:30 dit keer!__
+# __[Aanvang 18:30 dit keer!](/episode/episode-0012/)__
 
 ## __[Programma E12](/episode/episode-0012/)__
  
