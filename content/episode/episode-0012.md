@@ -1,5 +1,5 @@
 ---
-title: "Episode #12 - 5 nov 2020 - 19:00-21:00 CEST"
+title: "Episode #12 - 5 nov 2020 - 18:30-20:00 CEST"
 date: 2020-10-20T09:07:23+02:00
 draft: true
 ---
@@ -9,6 +9,8 @@ __DGGS goes Maptime!__
 ### Programma
 
 Thema Uitzending: __"DGGS goes Maptime!"__ 
+
+# __Let op: aanvang 18:30 dit keer!__
 
 ![alt text](/images/episode-0012/twitter_image.png)
 
