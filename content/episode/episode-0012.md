@@ -40,3 +40,12 @@ Special guests & critical panel: [Topi Tjukanov](https://tjukanov.org/) & [Naomi
 
 ## Links
 Hieronder de links uit de aflevering.
+
+### Mondkapjes Modeshow
+
+* SplashMaps - https://www.splash-maps.com/
+
+### Zeepkist
+
+* Rules in Dataviz Conferentie [graphichuntersshow.nl](https://graphichuntersshow.nl/)
+* Polak en van Bekkum [graaschoreografieen](https://www.polakvanbekkum.com/doing/at-this-moment/graaschoreografieen-bestel-het-boek/)
