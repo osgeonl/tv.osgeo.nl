@@ -4,10 +4,12 @@ date: 2020-10-20T09:07:23+02:00
 draft: true
 ---
 
-__DGGS goes Maptime!__  
+__DGGS goes Maptime!__ 
+ 
+### Terugkijken/Watch Back
+Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
+{{< youtube rl4-tPbfxOE >}}
 
-* __Kijken: via [twitch.tv/osgeonl](https://twitch.tv/osgeonl) of__ 
-__op [OSGeo.nl YouTube Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g).__
 
 ### Programma
 
