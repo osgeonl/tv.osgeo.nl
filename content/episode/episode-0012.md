@@ -6,6 +6,9 @@ draft: true
 
 __DGGS goes Maptime!__  
 
+* __Kijken: via [twitch.tv/osgeonl](https://twitch.tv/osgeonl) of__ 
+__op [OSGeo.nl YouTube Kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g).__
+
 ### Programma
 
 Thema Uitzending: __"DGGS goes Maptime!"__ 
