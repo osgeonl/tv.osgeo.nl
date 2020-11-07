@@ -74,5 +74,4 @@ GIN Awards
 
 * [week-van-de-api Geonovum](https://www.geonovum.nl/over-geonovum/agenda/week-van-de-api)
 * [Events via OSGeo.org](https://www.osgeo.org/events/)
-* [23 nov - GeoBusje - door Roosmarijn Haring en Erik Meerburg][https://geobusje.nl/]
-
+* [23 nov - GeoBusje - door Roosmarijn Haring en Erik Meerburg](https://geobusje.nl/)
