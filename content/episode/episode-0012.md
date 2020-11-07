@@ -10,7 +10,6 @@ __DGGS goes Maptime!__
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
 {{< youtube rl4-tPbfxOE >}}
 
-
 ### Programma
 
 Thema Uitzending: __"DGGS goes Maptime!"__ 
@@ -35,17 +34,45 @@ Special guests & critical panel: [Topi Tjukanov](https://tjukanov.org/) & [Naomi
 - __Column__ Erik, “Nico” Meerburg - Reageert live op uitzending!
 
 
+### Uitslag Quiz
+
+![alt text](/images/episode-0012/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 
-
-## Links
+### Links
 Hieronder de links uit de aflevering.
 
-### Mondkapjes Modeshow
+#### Edward Mac Gillavry
+
+GIN Awards
+
+* https://www.geoinformatienederland.nl/geo-prestige-award-2020
+* https://www.geoinformatienederland.nl/kartografiewedstrijd2020
+
+#### Topi Tjukanov
+
+* [tjukanov.org](https://tjukanov.org/)
+* [30 Day MapChallenge](https://github.com/tjukanovt/30DayMapChallenge)
+
+#### Naomi Bueno de Mesquita
+
+* [performativemapping.com](http://performativemapping.com/)
+* [Weg Wandelen - Mindyourstep](https://mindyourstep.performativemapping.net/)  - http://zone2source.net/nl/mind-your-step/
+* [15 nov 2020 - Amsterdam van de Kaart vegen](https://mindyourstep.performativemapping.net/tool)
+
+#### Mondkapjes Modeshow
 
 * SplashMaps - https://www.splash-maps.com/
 
-### Zeepkist
+#### Zeepkist
 
 * Rules in Dataviz Conferentie [graphichuntersshow.nl](https://graphichuntersshow.nl/)
-* Polak en van Bekkum [graaschoreografieen](https://www.polakvanbekkum.com/doing/at-this-moment/graaschoreografieen-bestel-het-boek/)
+* Esther Polak en Ivar van Bekkum [graaschoreografieen](https://www.polakvanbekkum.com/doing/at-this-moment/graaschoreografieen-bestel-het-boek/)
+* Esther Polak - Amsterdam Realtime 2001: [project](https://waag.org/nl/project/amsterdam-realtime) - [video](https://www.youtube.com/watch?v=_3v9ESnY_tM)
+
+#### Events
+
+* [week-van-de-api Geonovum](https://www.geonovum.nl/over-geonovum/agenda/week-van-de-api)
+* [Events via OSGeo.org](https://www.osgeo.org/events/)
+* [23 nov - GeoBusje - door Roosmarijn Haring en Erik Meerburg][https://geobusje.nl/]
+
