@@ -10,9 +10,10 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 __Elke 1e donderdag vd maand 19:00-21:00__
 
-![alt text](/images/episode-0013/pubquiz_aankondiging.jpg)
+[![naar aflevering](/images/episode-0013/pubquiz_aankondiging.jpg)](/episode/episode-0013/ "naar aflevering")
 
-## __[3 dec 2020 19:00](/episode/episode-0012/)__
+
+## __[3 dec 2020 19:00](/episode/episode-0013/)__
 ## __[DGGS Pubquiz!](/episode/episode-0013/)__
 
 
