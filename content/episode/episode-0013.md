@@ -17,7 +17,7 @@ Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTu
 
  We gaan 3 dec 2020 - 19:00 live:
  
-* Kijk op YouTube: https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g
+* Kijk op YouTube: https://youtu.be/BrE-Q2ZGt8w
 * Kijk op Twitch: https://www.twitch.tv/osgeonl
 
 Hoe meedoen? Je hoeft je niet tevoren op te geven.
