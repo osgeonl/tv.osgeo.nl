@@ -20,6 +20,12 @@ Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTu
 * Kijk op YouTube: https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g
 * Kijk op Twitch: https://www.twitch.tv/osgeonl
 
+Hoe meedoen? Je hoeft je niet tevoren op te geven.
+Een link naar  aanmelding en vragen worden per ronde 
+in uitzending getoond. 
+Eigenlijk net als met de voorgaande DGGS quizzen. 
+Live erbij zijn is dus wel voorwaarde!
+
 ### Uitslagen
 
 

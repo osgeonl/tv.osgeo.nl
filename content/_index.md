@@ -15,7 +15,6 @@ __Elke 1e donderdag vd maand 19:00-21:00__
 
 ## __[3 dec 2020 19:00 - DGGS Pubquiz!](/episode/episode-0013/)__
 
-
 # __Gemist? Kijk terug/watch back:__
  
 Vorige uitzending __[__5 nov 2020__ ](/episode/episode-0012/)__
