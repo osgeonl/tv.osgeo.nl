@@ -16,6 +16,11 @@ intermezzo's en interessante mededelingen in.
 
 {{< youtube HTgdEN3nb24 >}}   
 
+En wil je alleen de cursus kerstboom vouwen uit landkaarten door Niene terugzien:
+
+{{< youtube KYYvwuxqpIM >}}   
+
+Hieronder de oorspronkelijke aankondiging.
 
 ![alt text](/images/episode-0013/pubquiz_aankondiging.jpg)
 
