@@ -10,18 +10,24 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 __Elke 1e donderdag vd maand 19:00-21:00__
 
-[![naar aflevering](/images/episode-0013/pubquiz_aankondiging.jpg)](/episode/episode-0013/ "naar aflevering")
+Volgende zal normaal gesproken 7 jan 2021 zijn.
+
+Meedoen? Zeepkist? Ideeën? Inzendingen? Een event aankondiging in de show?
+
+Neem [Contact](/contact/) met ons op. 
+
+<!-- [![naar aflevering](/images/episode-0013/pubquiz_aankondiging.jpg)](/episode/episode-0013/ "naar aflevering") -->
 
 
-## __[3 dec 2020 19:00 - DGGS Pubquiz!](/episode/episode-0013/)__
+## __[3 dec 2020 was DGGS Pubquiz!](/episode/episode-0013/)__
 
 # __Gemist? Kijk terug/watch back:__
  
-Vorige uitzending __[__5 nov 2020__ ](/episode/episode-0012/)__
+Laatste uitzending __[__3 dec 2020__ ](/episode/episode-0013/) - Pubquiz!__
 
-{{< youtube rl4-tPbfxOE >}}
+{{< youtube HTgdEN3nb24 >}}
  
-# __[DGGS goes Maptime!](/episode/episode-0012/)__
+# Voorlaatste: __[DGGS goes Maptime!](/episode/episode-0012/)__
 
 Meedoen? Zeepkist? Ideeën? Inzendingen? Een event aankondiging in de show?
 
