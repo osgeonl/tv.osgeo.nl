@@ -24,17 +24,25 @@ Hieronder de oorspronkelijke aankondiging.
 
 ![alt text](/images/episode-0013/pubquiz_aankondiging.jpg)
 
-### Live Uitzending
-
-Is geweest.
-
 ### Uitslagen
 
-Komen hier.
+Erepodium:
 
+#### Plaats 1 - Team 5.129221 52.087047 
+#### Plaats 2 - Team GeoLeoFMM
+#### Plaats 3 - Team Huismussen
+
+En de bonus challenges:
+
+#### Bonus Kerstboom - Team Pedemontanum
+#### Bonus Gedicht - Team PiRo
+ 
 ### Links
 Hieronder de links uit de aflevering.
 
+#### Projecten
+
+* Donker Utrecht - Bert Spaan - https://bertspaan.nl/projects/donker-utrecht/
 
 #### Events
 
