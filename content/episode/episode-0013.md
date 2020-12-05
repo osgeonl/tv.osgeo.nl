@@ -42,6 +42,7 @@ Hieronder de links uit de aflevering.
 
 #### Projecten
 
+* Bommel Reisgids met Landkaart door Winifred Broeder - https://www.bol.com/nl/f/bommel-reisgids/35514258/
 * Donker Utrecht - Bert Spaan - https://bertspaan.nl/projects/donker-utrecht/
 
 #### Events
