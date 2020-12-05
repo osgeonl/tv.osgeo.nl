@@ -28,14 +28,14 @@ Hieronder de oorspronkelijke aankondiging.
 
 Erepodium:
 
-#### Plaats 1 - Team 5.129221 52.087047 
-#### Plaats 2 - Team GeoLeoFMM
-#### Plaats 3 - Team Huismussen
+#### ** Plaats 1 - Team 5.129221 52.087047 
+#### ** Plaats 2 - Team GeoLeoFMM
+#### ** Plaats 3 - Team Huismussen
 
 En de bonus challenges:
 
-#### Bonus Kerstboom - Team Pedemontanum
-#### Bonus Gedicht - Team PiRo
+#### ** Bonus Kerstboom - Team Pedemontanum
+#### ** Bonus Gedicht - Team PiRo
  
 ### Links
 Hieronder de links uit de aflevering.
