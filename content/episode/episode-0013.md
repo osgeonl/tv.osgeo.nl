@@ -38,6 +38,7 @@ En de bonus challenges:
 #### ** Bonus Gedicht - Team PiRo
  
 ### Links
+
 Hieronder de links uit de aflevering.
 
 #### Projecten
@@ -47,6 +48,10 @@ Hieronder de links uit de aflevering.
 
 #### Events
 
+* Aankondiging Open Call Mapping Nature - https://www.antarktikos.com/ - https://www.antarktikos.com/Open-Call-1
+* 30DayMapChallenge overzicht - https://david.frigge.nz/30DayMapChallenge2020/maps.html
+* QGISOpenDay (previously known as QHackFriday): aankondigingen op https://github.com/qgis/QGIS/wiki
+* QGISOpenDay Nov 2020 - https://github.com/qgis/QGIS/wiki/QHF-November-2020
 * GeoNode Summit - 7 jan 2020 - https://summit.geonode.org/
 * BAG v2 Webinars Kadaster - do 21 jan 2021 - https://www.kadaster.nl/-/webinar-bag-2.0-extract
 
