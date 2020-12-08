@@ -10,7 +10,7 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 __Elke 1e donderdag vd maand 19:00-21:00__
 
-Volgende zal normaal gesproken **7 jan 2021** zijn.
+Volgende zal normaal gesproken in **januari 2021** zijn (exacte datum/tijd volgt).
 
 <!-- [![naar aflevering](/images/episode-0013/pubquiz_aankondiging.jpg)](/episode/episode-0013/ "naar aflevering") -->
 
