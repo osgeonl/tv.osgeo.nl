@@ -20,6 +20,7 @@ Details volgen hier, zie ook [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/eve
 
 <!-- [![naar aflevering](/images/episode-0013/pubquiz_aankondiging.jpg)](/episode/episode-0013/ "naar aflevering") -->
 
+**----------------------------------------------------------**
 
 ## __[3 dec 2020 was DGGS Pubquiz!](/episode/episode-0013/)__
 
