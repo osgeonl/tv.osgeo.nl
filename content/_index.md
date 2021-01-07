@@ -8,11 +8,11 @@ Welkom bij de De Grote Geo Show (DGGS).
    
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
-SAVE THE DATE - **Zondag 24 januari 2021 15:00-18:00** 
+## SAVE THE DATE - Zondag 24 januari 2021 15:00-18:00 
 
-Nieuwjaarsborrel editie met OSM-NL, QGIS-NL, OSGeo-NL! 
+### Nieuwjaarsborrel editie met OSM-NL, QGIS-NL, OSGeo-NL! 
 
-Iedereen kan meedoen!
+**Iedereen kan meedoen!**
 
 Details volgen hier, zie ook [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/275612524/)!
 
