@@ -14,9 +14,11 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 ### Nieuwjaarsborrel editie met OSM-NL, QGIS-NL, OSGeo-NL! 
 
-**Iedereen kan meedoen!**
+**Iedereen kan meedoen, dus socializen!**
 
 Details volgen hier, zie ook [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/275612524/)!
+
+[Live-link naar de uitzending via YouTube](https://youtu.be/WNowA03zQSo)
 
 <!-- [![naar aflevering](/images/episode-0013/pubquiz_aankondiging.jpg)](/episode/episode-0013/ "naar aflevering") -->
 
