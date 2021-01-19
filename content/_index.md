@@ -10,7 +10,7 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 ## Zondag 24 januari 2021 15:00-18:00 
 
-### Nieuwjaarsborrel editie met OSM-NL, QGIS-NL, OSGeo-NL! 
+### Nieuwjaarsborrel met OSM-NL, QGIS-NL, OSGeo-NL! 
 
 **Iedereen kan meedoen, vanaf 15:30 op Grote Geo Eiland!**
 
