@@ -22,7 +22,7 @@ Hoe dan? Opgeven is niet nodig.
 
 Volg livestream - 15:00 via YouTube evt Twitch. 
 
-Daar laten we weten hoe je op Het Grote Geo eiland Komt!
+Daar laten we weten hoe je op Het Grote Geo Eiland Komt!
 
 [Link naar stream YouTube](https://youtu.be/WNowA03zQSo)
 
