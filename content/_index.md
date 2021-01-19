@@ -14,14 +14,15 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 **Iedereen kan meedoen, vanaf 15:30 op Grote Geo Eiland!**
 
-[![Reis naar Grote Geo Eiland](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](https://www.wonder.me/r?id=5e97efe2-c837-4ed9-b7b2-9011ba49b712 "Reis naar Grote Geo Eiland") 
+<!-- [![Join us op Grote Geo Eiland](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](https://www.wonder.me/r?id=5e97efe2-c837-4ed9-b7b2-9011ba49b712 "Join us op Grote Geo Eiland") --> 
 
 ![alt text](/images/episode-0014/grote-geo-eiland-screenshot.jpg)
 
-
 Hoe dan? Opgeven is niet nodig. 
 
-Volg livestream - 15:00 via YouTube evt Twitch.
+Volg livestream - 15:00 via YouTube evt Twitch. 
+
+Daar laten we weten hoe je op Het Grote Geo eiland Komt!
 
 [Link naar stream YouTube](https://youtu.be/WNowA03zQSo)
 
