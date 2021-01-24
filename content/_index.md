@@ -8,23 +8,27 @@ Welkom bij de De Grote Geo Show (DGGS).
    
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
+## Donderdag 4 feb 2021 16:00-18:00 
+
+Informele borrel op Grote Geo Eiland. Link volgt!
+
+o.a. verder brainstormen volgende aflevering (OSM Special!)
+
 ## Zondag 24 januari 2021 15:00-18:00 
 
 ### Nieuwjaarsborrel met OSM-NL, QGIS-NL, OSGeo-NL! 
 
-**Iedereen kan meedoen, vanaf 15:30 op Grote Geo Eiland!**
+**Iedereen kon meedoen, vanaf 15:45 op Grote Geo Eiland!**
 
 <!-- [![Join us op Grote Geo Eiland](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](https://www.wonder.me/r?id=5e97efe2-c837-4ed9-b7b2-9011ba49b712 "Join us op Grote Geo Eiland") --> 
 
 ![alt text](/images/episode-0014/grote-geo-eiland-screenshot.jpg)
 
-Hoe dan? Opgeven is niet nodig. 
+Is geweest. Groot succes! Ook Het Grote Geo Eiland! 
 
-Volg livestream - 15:00 via YouTube evt Twitch. 
+Plenair gedeelte - 15:00-15:45 hier terug te kijken:
 
-Daar laten we weten hoe je op Het Grote Geo Eiland Komt!
-
-[Link naar stream YouTube](https://youtu.be/WNowA03zQSo)
+{{< youtube WNowA03zQSo >}}   
 
 Zie ook [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/275612524/)!
 

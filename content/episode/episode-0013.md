@@ -6,7 +6,7 @@ draft: true
 
 __DGGS Pubquiz!__ 
 
-Deze was op 3 dec 2021 en komt zeker weer eens terug!
+Deze was op 3 dec 2020 en komt zeker weer eens terug!
  
 ### Terugkijken/Watch Back
 
