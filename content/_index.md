@@ -18,12 +18,6 @@ o.a. verder brainstormen volgende aflevering (OSM Special!)
 
 ### Nieuwjaarsborrel met OSM-NL, QGIS-NL, OSGeo-NL! 
 
-**Iedereen kon meedoen, vanaf 15:45 op Grote Geo Eiland!**
-
-<!-- [![Join us op Grote Geo Eiland](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](https://www.wonder.me/r?id=5e97efe2-c837-4ed9-b7b2-9011ba49b712 "Join us op Grote Geo Eiland") --> 
-
-![alt text](/images/episode-0014/grote-geo-eiland-screenshot.jpg)
-
 Is geweest. Groot succes! Ook Het Grote Geo Eiland! 
 
 Plenair gedeelte - 15:00-15:45 hier terug te kijken:
@@ -32,9 +26,13 @@ Plenair gedeelte - 15:00-15:45 hier terug te kijken:
 
 Zie ook [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/275612524/)!
 
-<!-- [![naar aflevering](/images/episode-0013/pubquiz_aankondiging.jpg)](/episode/episode-0013/ "naar aflevering") -->
+**Iedereen kon meedoen, vanaf 15:45 op Grote Geo Eiland!**
 
-**----------------------------------------------------------**
+<!-- [![Join us op Grote Geo Eiland](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](https://www.wonder.me/r?id=5e97efe2-c837-4ed9-b7b2-9011ba49b712 "Join us op Grote Geo Eiland") --> 
+
+[![naar aflevering](/images/episode-0014/grote-geo-eiland-screenshot.jpg](/episode/episode-0014/ "naar aflevering")
+
+**-----------------------------------------------------------------------------------**
 
 ## __[3 dec 2020 was DGGS Pubquiz!](/episode/episode-0013/)__
 
