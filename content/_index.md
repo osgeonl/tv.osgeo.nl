@@ -27,7 +27,7 @@ Plenair gedeelte - 15:00-15:45 hier terug te kijken:
 Zie ook [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/275612524/)!
 
 **Iedereen kon meedoen, vanaf 15:45 op Grote Geo Eiland!**
-
+**(Niet live gestreamed noch opgenomen)**
 <!-- [![Join us op Grote Geo Eiland](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](https://www.wonder.me/r?id=5e97efe2-c837-4ed9-b7b2-9011ba49b712 "Join us op Grote Geo Eiland") --> 
 
 [![naar aflevering](/images/episode-0014/grote-geo-eiland-screenshot2.png)](/episode/episode-0014/ "naar aflevering")
