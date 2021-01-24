@@ -17,6 +17,9 @@ mededelingen in. Het gezamelijke deel is niet gestreamd of opgenomen.
 
 {{< youtube WNowA03zQSo >}}   
 
+
+![alt text](/images/episode-0014/grote-geo-eiland-screenshot2.png "Grote Geo Eiland in Actie")
+
 #### Events
 
 ### "Onze"
