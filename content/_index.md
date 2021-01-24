@@ -30,7 +30,7 @@ Zie ook [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/275612524/)!
 
 <!-- [![Join us op Grote Geo Eiland](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](https://www.wonder.me/r?id=5e97efe2-c837-4ed9-b7b2-9011ba49b712 "Join us op Grote Geo Eiland") --> 
 
-[![naar aflevering](/images/episode-0014/grote-geo-eiland-screenshot.jpg](/episode/episode-0014/ "naar aflevering")
+[![naar aflevering](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](/episode/episode-0014/ "naar aflevering")
 
 **-----------------------------------------------------------------------------------**
 
