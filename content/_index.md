@@ -10,7 +10,7 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 ## Donderdag 4 feb 2021 16:00-18:00 
 
-Gezamelijk Bubbelen&Borrelen in De Grote Geo Ruimte::
+Gezamenlijk Bubbelen&Borrelen in De Grote Geo Ruimte::
 
 
 [![Kom naar Grote Geo Ruimte](/images/grote-geo-ruimte-trans.jpg)](https://tiny.cc/geonl "naar Grote Geo Ruimte")
