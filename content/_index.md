@@ -8,10 +8,11 @@ Welkom bij de De Grote Geo Show (DGGS).
    
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
-## Donderdag 4 feb 2021 16:00-18:00 
+## Nu Elke Donderdag - 16:00-18:00 - Open Ruimte
 
-Gezamenlijk Bubbelen&Borrelen in De Grote Geo Ruimte::
+Gezamenlijk Bubbelen&Borrelen 
 
+of gewoon Goed Geo Gesprek in De Grote Geo Ruimte:
 
 [![Kom naar Grote Geo Ruimte](/images/grote-geo-ruimte-trans.jpg)](https://tiny.cc/geonl "naar Grote Geo Ruimte")
  
@@ -22,7 +23,9 @@ Deze leidt naar wonder.me omgeving en is ook daarbuiten beschikbaar.
 
 Details ook op [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/lgjwdsyccdbgb/), opgeven niet nodig.
 
-o.a. verder brainstormen volgende DGGS (OSM Special? 25 feb?)
+o.a. verder brainstormen volgende DGGS 
+
+## Save the Date: DGGS OSM Special 4 maart 2021 19:00
 
 ## Zondag 24 januari 2021 15:00-18:00 
 

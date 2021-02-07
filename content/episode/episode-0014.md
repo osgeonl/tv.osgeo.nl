@@ -20,13 +20,18 @@ mededelingen in. Het gezamelijke deel is niet gestreamd of opgenomen.
 
 ![alt text](/images/episode-0014/grote-geo-eiland-screenshot2.png "Grote Geo Eiland in Actie")
 
+#### Presentaties
+
+* Just van den Broecke - OSGeo.nl - [Slides in PDF](https://io.osgeo.nl/sitecontent/events/nieuwjaarsborrel2021/OSGeo.nl_NJBorrel2021-Just.pdf)
+
 #### Events
 
 ### "Onze"
 
 * in okt gepland: FOSS4G-NL!
 * do 4 feb 2021 16:00-18:00 - informele OSGeo-NL/QGIS-NL/OSM-NL borrel
-* meer Grote Geo Shows: eerste met thema OpenStreetMap, nieuws volgt!
+* iedere week Open Grote Geo Ruimte: via https://tiny.cc/geonl
+* meer Grote Geo Shows: eerste met thema OpenStreetMap, do 4 maart 2021 19:00, nieuws volgt!
 
 Voor borrel 4 feb: houdt deze site en kanalen als OSGeoNL Meetup in de gaten!
 
