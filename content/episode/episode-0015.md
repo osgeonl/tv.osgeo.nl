@@ -50,5 +50,5 @@ Hieronder de links uit de aflevering.
 
 #### Events
 
-* [State Of The Map 2021 - SOTM](https://2021.stateofthemap.org/)
-* [OpenStreetMap Belgium](https://www.meetup.com/OpenStreetMap-Belgium/) - 5 maart 2021 meeting!
+* [State Of The Map 2021 - SOTM](https://2021.stateofthemap.org/) - online
+* [Meetup Groep OpenStreetMap Belgium](https://www.meetup.com/OpenStreetMap-Belgium/) - 5 maart 2021 meeting!
