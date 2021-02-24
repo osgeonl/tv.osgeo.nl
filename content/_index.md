@@ -25,7 +25,7 @@ Details ook op [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/lgjwdsyccd
 
 o.a. verder brainstormen volgende DGGS 
 
-## Save the Date: DGGS OSM Special 4 maart 2021 19:00
+## __[DGGS Ep 15 - OSM Special 4 maart 2021 19:00](/episode/episode-0015/)__
 
 ## Zondag 24 januari 2021 15:00-18:00 
 
