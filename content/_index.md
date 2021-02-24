@@ -8,6 +8,8 @@ Welkom bij de De Grote Geo Show (DGGS).
    
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
+## __[DGGS Ep 15 - OSM Special 4 maart 2021 19:00](/episode/episode-0015/)__
+
 ## Nu Elke Donderdag - 16:00-18:00 - Open Ruimte
 
 Gezamenlijk Bubbelen&Borrelen 
@@ -16,16 +18,12 @@ of gewoon Goed Geo Gesprek in De Grote Geo Ruimte:
 
 [![Kom naar Grote Geo Ruimte](/images/grote-geo-ruimte-trans.jpg)](https://tiny.cc/geonl "naar Grote Geo Ruimte")
  
-
 Dus directe link: https://tiny.cc/geonl
 
 Deze leidt naar wonder.me omgeving en is ook daarbuiten beschikbaar.
 
 Details ook op [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/lgjwdsyccdbgb/), opgeven niet nodig.
 
-o.a. verder brainstormen volgende DGGS 
-
-## __[DGGS Ep 15 - OSM Special 4 maart 2021 19:00](/episode/episode-0015/)__
 
 ## Zondag 24 januari 2021 15:00-18:00 
 
