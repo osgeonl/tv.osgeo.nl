@@ -13,7 +13,7 @@ zie ook het [topic op het OSM-NL Forum](https://forum.openstreetmap.org/viewtopi
 ### Terugkijken/Watch Back
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
 
-<-- {{< youtube rl4-tPbfxOE >}}  -->
+<!-- {{< youtube rl4-tPbfxOE >}}  -->
 
 ### Programma
 
@@ -36,7 +36,7 @@ Special guests & critical panel: nog aan te kondigen
 
 Komt hier.
 
-<-- ![alt text](/images/episode-0012/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")   -->
+<!-- ![alt text](/images/episode-0012/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")   -->
 
 
 ### Links
@@ -51,5 +51,4 @@ Hieronder de links uit de aflevering.
 #### Events
 
 * [State Of The Map 2021 - SOTM](https://2021.stateofthemap.org/)
-* ..
-
+* [OpenStreetMap Belgium](https://www.meetup.com/OpenStreetMap-Belgium/) - 5 maart 2021 meeting!
