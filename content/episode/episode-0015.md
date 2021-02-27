@@ -17,20 +17,25 @@ Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTu
 
 ### Programma
 
-Thema Uitzending: __"DGGS OpenStreetMap (NL) Special!"__ 
+Thema Uitzending: __"DGGS OpenStreetMap NL Special!"__ 
 
-Uw Talkshow Host: __Luciën!__
+Uw Talkshow Host: __Luciën a.k.a. Lachgast!__
 
 Special guests & critical panel: nog aan te kondigen
 
-- Opening: Geo-events en meer  - Luciën 
-- __Item__- 
-- __Item__ - 
-- __De Grote Geo Quiz - OSM Editie__ - gemaakt door PeeWee, gepresenteerd door door Marielle Geers
-- __Item__ - 
-- __Item__ - 
-- __De Zeepkist__ - Kom in de show! Open Vloer. Wie wil en durft! Kaart OSM-NL zaken aan!
+- __Opening: Nieuws uit de OSM Wereld__  - Luciën e.a. 
+- __Peter Elderson a.k.a. Pelderson__ - Laagdrempelige OSM-Mapping met o.a. MapComplete, StreetComplete onosm.org, Wandelroutes/knooppunten
+- __Myckel a.k.a. Commodoortje__ - Wat en hoe BAG in OpenStreetMap
+- __De Grote Geo Quiz - OSM Editie__ - gemaakt door __PeeWee__, gepresenteerd door __Mariëlle Geers__
+- __Erik a.k.a. Infodisiac__ - Mapping van Bomen in OSM - http://infodisiac.com/bomen/groenesteeg.html
+- __Peter van Wee a.k.a. Peewee__ - OSM Data Analyse met PowerBI
+- __De Zeepkist__ - Brandende OSM-NL zaken: Shrubbery, Parking ...
 - __Column__ of __Panel__ - OSM-NL hoe in toekomst?
+
+In onderhandeling:
+
+- [Ilya Zverev](http://osmz.ru/) met [Telebot - Mapping vanuit Telegram](https://fosdem.org/2021/schedule/event/telebot/)
+- [Pascal Neis](https://neis-one.org/about/)  - OSM Stats [Hoe heb jij bijgedragen?](https://hdyc.neis-one.org/)
 
 ### Uitslag Quiz
 
@@ -42,11 +47,15 @@ Komt hier.
 ### Links
 Hieronder de links uit de aflevering.
 
+* Bomen Mapping - http://infodisiac.com/bomen/groenesteeg.html
+* MapComplete - door [pietervdvn](https://github.com/pietervdvn) - https://wiki.openstreetmap.org/wiki/MapComplete en https://mapcomplete.osm.be/
+* StreetComplete - door [Tobias Zwick](https://wiki.openstreetmap.org/wiki/User:Westnordost) - https://wiki.openstreetmap.org/wiki/StreetComplete
+
 #### Item
 
 #### Zeepkist
 
-* ...
+* Shrubbery!
 
 #### Events
 
