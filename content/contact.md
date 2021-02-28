@@ -11,9 +11,9 @@ Deze website is het primaire contact voor DGGS.
 
 ## Op de hoogte blijven?
 
-* Twitch: volg [twitch.tv/osgeonl](https://twitch.tv/osgeonl)
-* YouTube: volg [ons YT kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)
 * [Twitter](https://twitter.com/osgeonl)
+* YouTube: volg [ons YT kanaal](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g)
+* Twitch: volg [twitch.tv/osgeonl](https://twitch.tv/osgeonl)
 * [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL)
 * [GeoForum.nl](https://geoforum.nl)
 

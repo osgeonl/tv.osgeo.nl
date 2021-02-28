@@ -24,6 +24,7 @@ Uw Talkshow Host: __Luciën a.k.a. Lachgast!__
 Special guests & critical panel: nog aan te kondigen
 
 - __Opening: Nieuws uit de OSM Wereld__  - Luciën e.a. 
+- __Peter Elderson a.k.a. Pelderson__ - Laagdrempelige OSM-Mapping met o.a. MapComplete
 - __Myckel a.k.a. Commodoortje__ - Wat en hoe BAG in OpenStreetMap
 - __De Grote Geo Quiz - OSM Editie__ - gemaakt door __PeeWee__, gepresenteerd door __Mariëlle Geers__
 - __Peter van Wee a.k.a. Peewee__ - OSM Data Analyse met PowerBI
@@ -32,7 +33,6 @@ Special guests & critical panel: nog aan te kondigen
 
 In onderhandeling:
 
-- __Peter Elderson a.k.a. Pelderson__ - Laagdrempelige OSM-Mapping met o.a. MapComplete, StreetComplete onosm.org, Wandelroutes/knooppunten
 - __Erik a.k.a. Infodisiac__ - Mapping van Bomen in OSM - http://infodisiac.com/bomen/groenesteeg.html
 - [Ilya Zverev](http://osmz.ru/) met [Telebot - Mapping vanuit Telegram](https://fosdem.org/2021/schedule/event/telebot/)
 - [Pascal Neis](https://neis-one.org/about/)  - OSM Stats [Hoe heb jij bijgedragen?](https://hdyc.neis-one.org/)
