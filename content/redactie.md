@@ -24,16 +24,16 @@ Like with Jitsi or other browser-based tools you need to confirm
 that the StreamYard webapp has access to your computer's audio (mic + output)
 and video. Within StreamYard you can still choose which A/V devices to use and test them.
 
-Basically we all connect to the same StreamYard web-page, the "broadcast studio"  
-at StreamYard.com via a unique weblink (see "Links" below). 
-Each episode will
-have a unique StreamYard link for the show's participants only.
+Basically we all connect to the same StreamYard web-page, the "broadcast studio" at StreamYard.com via a unique weblink (see "Links" below). 
+Each episode will have a unique StreamYard link for the show's participants only.
 This link will be published in our Telegram group
-and sent to all guests in the show. It is not to be shared, though the nice 
-aspect of StreamYard is that one always enters "Backstage", so unlike many of
-the teleconferencing tools there is no chance of an "intruder" within the lice show.
+and is sent to all guests in the show. It is not to be shared, though the nice 
+aspect of StreamYard is that one always enters "Backstage" first. 
+The director (called "Host" in StreamYard. Dutch: "regisseur") determines who will be "on stage".
+Just like a real TV show! 
+Thus unlike many of the teleconferencing tools there is no chance of an "intruder" within the live show.
 
-Each show-participant basically streams (from our browsers) 
+Each participant in the show (and live on stage) basically streams (from our browsers) 
 to the "broadcast studio". StreamYard makes the composite video and will stream
 live to [Twitch](https://twitch.tv/osgeonl) and [YouTube](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g) but
 only during broadcast timeframe. Not e.g. while preparing. 
