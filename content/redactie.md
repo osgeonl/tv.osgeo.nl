@@ -43,7 +43,7 @@ If you participate within the show you basically consent that you are recorded a
 from the recording after the show).
 
 There are some things you need to know, tips & tricks, especially when first 
-time in the show, read more here:
+time in the show, to make your appearance great, read more here:
  
 [Sectie 4 van het Google Docs een Levend Document](https://docs.google.com/document/d/1V_hUjofjRu3TPpmnAtJGaHID3qO9keof4al5y3nIgVs#heading=h.6a3gipd4qkda).
 
