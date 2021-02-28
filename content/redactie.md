@@ -26,7 +26,7 @@ and video. Within StreamYard you can still choose which A/V devices to use and t
 
 Basically we all connect to the same StreamYard web-page, the "broadcast studio" at StreamYard.com via a unique weblink (see "Links" below). 
 Each episode will have a unique StreamYard link for the show's participants only.
-This link will be published in our Telegram group
+This link will be published in the DGGS Telegram group
 and is sent to all guests in the show. It is not to be shared, though the nice 
 aspect of StreamYard is that one always enters "Backstage" first. 
 The director (called "Host" in StreamYard. Dutch: "regisseur") determines who will be "on stage".
@@ -38,6 +38,9 @@ to the "broadcast studio". StreamYard makes the composite video and will stream
 live to [Twitch](https://twitch.tv/osgeonl) and [YouTube](https://www.youtube.com/channel/UCvSAN6ur4RoGUqxtvmgsb8g) but
 only during broadcast timeframe. Not e.g. while preparing. 
 Viewers watch the show via YouTube and Twitch. The show is also recorded for later viewing on YouTube.
+If you participate within the show you basically consent that you are recorded as well.
+(Though on your specific request we may "cut you (wholly/partly) out" 
+from the recording after the show).
 
 There are some things you need to know, tips & tricks, especially when first 
 time in the show, read more here:
