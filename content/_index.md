@@ -12,6 +12,7 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 ## __[OpenStreetMap Special](/episode/episode-0015/)__
 ## Special guest: Ilya Zverev [User:Zverik](https://wiki.openstreetmap.org/wiki/User:Zverik) (BY)!
 
+## -----------------------------------------------
 ## Ook: Elke Donderdag - 16:00-18:00 - Open Ruimte
 
 Gezamenlijk Bubbelen&Borrelen 
