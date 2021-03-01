@@ -1,14 +1,13 @@
 ---
-title: "Episode #15 - 4 mrt 2021 - 19:00-20:30 CEST"
+title: "Episode #15 - 4 mrt 2021 - 19:00-21:00 CEST"
 date: 2021-02-24T09:07:23+02:00
 draft: true
 ---
 
 __DGGS OpenStreetMap Special__ 
 
-Deze show is nog in aanbouw. 
-Wil je meedenken/meedoen, 
-zie ook het [topic op het OSM-NL Forum](https://forum.openstreetmap.org/viewtopic.php?id=71853).
+Uitzending volledig gewijd aan OpenStreetMap met nadruk op OSM in Nederland.
+Verzorgd door de OSM-NL community met technische ondersteuning DGGS-team
  
 ### Terugkijken/Watch Back
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
@@ -69,6 +68,7 @@ Hieronder de links uit de aflevering.
 
 #### NL Community
 
+* [topic deze show op het OSM-NL Forum](https://forum.openstreetmap.org/viewtopic.php?id=71853)
 * Bomen Mapping - http://infodisiac.com/bomen/groenesteeg.html
   
 #### Bezoekwaardig
