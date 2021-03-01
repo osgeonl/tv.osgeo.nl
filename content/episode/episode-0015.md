@@ -8,7 +8,12 @@ __DGGS OpenStreetMap Special__
 
 Uitzending volledig gewijd aan OpenStreetMap met nadruk op OSM in Nederland.
 Verzorgd door de OSM-NL community met technische ondersteuning DGGS-team
- 
+
+### Live Kijken
+
+* Via YouTube: https://www.youtube.com/watch?v=nhlIqMyBIig
+* Via Twitch: https://www.twitch.tv/osgeonl/
+
 ### Terugkijken/Watch Back
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
 
