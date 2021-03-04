@@ -12,10 +12,11 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 ## __[OpenStreetMap Special](/episode/episode-0015/)__
 ## Special guest: Ilya Zverev [User:Zverik](https://wiki.openstreetmap.org/wiki/User:Zverik)
 
-## Live Kijken
+## Uitzending Gemist?
 
-## [Kijk op YouTube](https://www.youtube.com/watch?v=nhlIqMyBIig)
-## [Kijk op Twitch](https://www.twitch.tv/osgeonl/)
+Kijk hier terug.
+
+{{< youtube nhlIqMyBIig >}}
 
 ## -----------------------------------------------
 ## Ook: Elke Donderdag - 16:00-18:00 - Open Ruimte

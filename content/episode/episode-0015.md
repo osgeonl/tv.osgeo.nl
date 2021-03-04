@@ -9,15 +9,10 @@ __DGGS OpenStreetMap Special__
 Uitzending volledig gewijd aan OpenStreetMap met nadruk op OSM in Nederland.
 Verzorgd door de OSM-NL community met technische ondersteuning DGGS-team
 
-### Live Kijken
-
-* Via YouTube: https://www.youtube.com/watch?v=nhlIqMyBIig
-* Via Twitch: https://www.twitch.tv/osgeonl/
-
 ### Terugkijken/Watch Back
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
 
-<!-- {{< youtube rl4-tPbfxOE >}}  -->
+{{< youtube nhlIqMyBIig >}}
 
 ### Programma
 
@@ -44,9 +39,9 @@ Reserve - voor latere show:
 
 ### Uitslag Quiz
 
-Komt hier.
+Vragen over OSM-NL en Ilya als winnaar, pure genius!
 
-<!-- ![alt text](/images/episode-0012/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")   -->
+![alt text](/images/episode-0015/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 
 ### Links
@@ -60,15 +55,15 @@ Hieronder de links uit de aflevering.
 #### Peter Elderson (Pelderson)
 
 * MapComplete - door [pietervdvn](https://github.com/pietervdvn) - https://wiki.openstreetmap.org/wiki/MapComplete en https://mapcomplete.osm.be/
-* StreetComplete - door [Tobias Zwick](https://wiki.openstreetmap.org/wiki/User:Westnordost) - https://wiki.openstreetmap.org/wiki/StreetComplete
 
 #### Ilya Zverev  (Zverik)
 
 * [Ilya's Projecten overzicht](http://osmz.ru/) o.a. MapStreak
 * [FOSDEM 2021 Presentatie - Telebot](https://fosdem.org/2021/schedule/event/telebot/) - mapping OSM amenities/shops via Telegram 
 * [OSM User Zverik](https://wiki.openstreetmap.org/wiki/User:Zverik)
+* [Bloomberg Article on Corporate Influence on OSM](https://www.bloomberg.com/news/articles/2021-02-19/openstreetmap-charts-a-controversial-new-direction)
 
-#### Michael (Commodoortje)
+#### Myckel (Commodoortje)
 
 * [OSM-NL Forum - Sticky Topic BAG Import](https://forum.openstreetmap.org/viewtopic.php?id=52973)
 
@@ -81,6 +76,7 @@ Hieronder de links uit de aflevering.
 
 Hier mooie OSM toepassingen:
 
+* StreetComplete - door [Tobias Zwick](https://wiki.openstreetmap.org/wiki/User:Westnordost) - https://wiki.openstreetmap.org/wiki/StreetComplete
 * [OSM-NL Forum Sticky Topic - Post hier OSM-toepassingen](https://forum.openstreetmap.org/viewtopic.php?id=16030)
 * https://osm-in-realtime.jwestman.net/ - zie OSM Edits wereldwijd in realtime!
 
