@@ -8,9 +8,14 @@ Welkom bij De Grote Geo Show (DGGS).
    
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
-## __[4 maart 2021 19:00-20:30 CEST](/episode/episode-0015/)__
+## __[4 mrt 2021 19:00-21:00 CEST](/episode/episode-0015/)__
 ## __[OpenStreetMap Special](/episode/episode-0015/)__
-## Special guest: Ilya Zverev [User:Zverik](https://wiki.openstreetmap.org/wiki/User:Zverik) (BY)!
+## Special guest: Ilya Zverev [User:Zverik](https://wiki.openstreetmap.org/wiki/User:Zverik)
+
+## Live via YouTube
+
+{{< youtube rl4-nhlIqMyBIig >}} 
+
 
 ## -----------------------------------------------
 ## Ook: Elke Donderdag - 16:00-18:00 - Open Ruimte
