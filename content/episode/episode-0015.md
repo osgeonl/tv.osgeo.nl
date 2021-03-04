@@ -57,17 +57,18 @@ Hieronder de links uit de aflevering.
 
 * [100 miljoenste edit op OSM!](https://blog.openstreetmap.org/2021/02/25/100-million-edits-to-openstreetmap/)
 
-#### Peter Elderson
+#### Peter Elderson (Pelderson)
 
 * MapComplete - door [pietervdvn](https://github.com/pietervdvn) - https://wiki.openstreetmap.org/wiki/MapComplete en https://mapcomplete.osm.be/
 * StreetComplete - door [Tobias Zwick](https://wiki.openstreetmap.org/wiki/User:Westnordost) - https://wiki.openstreetmap.org/wiki/StreetComplete
 
-#### Ilya Zverev
+#### Ilya Zverev  (Zverik)
 
 * [Ilya's Projecten overzicht](http://osmz.ru/) o.a. MapStreak
 * [FOSDEM 2021 Presentatie - Telebot](https://fosdem.org/2021/schedule/event/telebot/) - mapping OSM amenities/shops via Telegram 
+* [OSM User Zverik](https://wiki.openstreetmap.org/wiki/User:Zverik)
 
-#### Commodoortje
+#### Michael (Commodoortje)
 
 * [OSM-NL Forum - Sticky Topic BAG Import](https://forum.openstreetmap.org/viewtopic.php?id=52973)
 
