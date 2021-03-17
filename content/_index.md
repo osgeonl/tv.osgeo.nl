@@ -8,6 +8,9 @@ Welkom bij De Grote Geo Show (DGGS).
    
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
+## Volgende: 8 april 19:00-20:30 CEST 
+## "GIS met het Toetsenbord" a.k.a. Tikkers Special!
+
 ## __[4 mrt 2021 19:00-21:00 CEST](/episode/episode-0015/)__
 ## __[OpenStreetMap Special](/episode/episode-0015/)__
 ## Special guest: Ilya Zverev [User:Zverik](https://wiki.openstreetmap.org/wiki/User:Zverik)
