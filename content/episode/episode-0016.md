@@ -41,6 +41,7 @@ Hieronder de links uit de aflevering.
 
 * Over: https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line
 * [In_the_Beginning..._Was_the_Command_Line - full text](http://cristal.inria.fr/~weis/info/commandline.html)
+* Modernized/annotated version: http://garote.bdmonkeys.net/commandline/index.html
 
 #### Zeepkist
 
