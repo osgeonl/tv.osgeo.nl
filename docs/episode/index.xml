@@ -6,7 +6,21 @@
     <description>Recent content in Episodes on De Grote Geo Show</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <lastBuildDate>Mon, 01 Mar 2021 06:07:23 +0200</lastBuildDate><atom:link href="https://tv.osgeo.nl/episode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 06:07:23 +0200</lastBuildDate><atom:link href="https://tv.osgeo.nl/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode #16 - 8 apr 2021 - 19:00-20:30 CEST</title>
+      <link>https://tv.osgeo.nl/episode/episode-0016/</link>
+      <pubDate>Wed, 31 Mar 2021 06:07:23 +0200</pubDate>
+      
+      <guid>https://tv.osgeo.nl/episode/episode-0016/</guid>
+      <description>GIS met het Toetsenbord - Tikkers Special
+Gaat vooral over oa. programmeren maar breder dan dat.
+Uitgangspunt: In den Beginne was er De Commando-Regel (links onder).
+Meer nieuws en programma volgen hieronder. Samengevat:
+ Hoe wordt ik van Klikker een Tikker? Waar en bij/van wie kan ik dat leren? de kracht van de commandline interactief tikken Python in QGIS  Programma Thema Uitzending: &amp;ldquo;GIS met het Toetsenbord!&amp;quot;
+Uw Talkshow Host: Niene Boeijen</description>
+    </item>
+    
     <item>
       <title>Episode #15 - 4 mrt 2021 - 19:00-21:00 CEST</title>
       <link>https://tv.osgeo.nl/episode/episode-0015/</link>
@@ -20,20 +34,6 @@ Terugkijken/Watch Back Kijk de aflevering hier terug via YouTube. Watch the epis
 Uw Talkshow Host: Luciën a.k.a. Lachgast!
 Special guest: Ilya Zverev a.k.a. Zverik!
  Opening: Nieuws uit de OSM Wereld - oa. 100 miljoenste Edit!</description>
-    </item>
-    
-    <item>
-      <title>Episode #16 - 8 apr 2021 - 19:00-20:30 CEST</title>
-      <link>https://tv.osgeo.nl/episode/episode-0016/</link>
-      <pubDate>Mon, 01 Mar 2021 06:07:23 +0200</pubDate>
-      
-      <guid>https://tv.osgeo.nl/episode/episode-0016/</guid>
-      <description>GIS met het Toetsenbord - Tikkers Special
-Gaat vooral over oa. programmeren maar breder dan dat.
-Uitgangspunt: In den Beginne was er De Commando-Regel (links onder).
-Meer nieuws en programma volgen hieronder. Samengevat:
- Hoe wordt ik van Klikker een Tikker? Waar en bij/van wie kan ik dat leren? de kracht van de commandline interactief tikken Python in QGIS  Programma Thema Uitzending: &amp;ldquo;GIS met het Toetsenbord!&amp;quot;
-Uw Talkshow Host: T.</description>
     </item>
     
     <item>

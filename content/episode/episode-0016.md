@@ -1,6 +1,6 @@
 ---
 title: "Episode #16 - 8 apr 2021 - 19:00-20:30 CEST"
-date: 2021-03-01T06:07:23+02:00
+date: 2021-03-31T06:07:23+02:00
 draft: true
 ---
 
@@ -22,9 +22,15 @@ Meer nieuws en programma volgen hieronder. Samengevat:
 
 Thema Uitzending: __"GIS met het Toetsenbord!"__ 
 
-Uw Talkshow Host: __T.B.A.__
+Uw Talkshow Host: __Niene Boeijen__
 
-Met bijdragen van o.a. Hans van der Kwast, Mariëlle Geers, Niene, Erik Meerburg (Column!), Raymond, Willem, Just.
+* University/Introductie Python, actief meedoen: Mariëlle en Hans
+* GitHub Game: Raymond
+* Quiz: Marielle
+* 5 Minute Challenge: BAG van bron naar QGIS: Just
+* Column: Erik
+* Nieuwtjes/Agenda: Host
+* reserve: GIS analyse: 10 minuten prutsen met tooltjes of 1 minuut code schrijven?
 
 Heb je iets voor de Zeepkist? Laat ons weten.
 
