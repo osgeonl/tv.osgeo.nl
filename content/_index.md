@@ -15,23 +15,11 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 ### Kijken
 
-* Via YouTube: https://www.youtube.com/watch?v=iOiliIAorD4
-* https://www.twitch.tv/osgeonl/schedule
+__YouTube: https://www.youtube.com/watch?v=iOiliIAorD4__
+__Twitch: https://www.twitch.tv/osgeonl/schedule__
 
-## -----------------------------------------------
-
-## __[4 mrt 2021 19:00-21:00 CEST](/episode/episode-0015/)__
-## __[OpenStreetMap Special](/episode/episode-0015/)__
-## Special guest: Ilya Zverev [User:Zverik](https://wiki.openstreetmap.org/wiki/User:Zverik)
-
-## Uitzending Gemist?
-
-Kijk hier terug.
-
-{{< youtube nhlIqMyBIig >}}
-
-## -----------------------------------------------
-## Ook: Elke Donderdag - 16:00-18:00 - Open Ruimte
+____
+## Ook: Elke Donderdag - 16:00-18:00 - Open Geo Ruimte
 
 Gezamenlijk Bubbelen&Borrelen 
 
@@ -46,41 +34,11 @@ Deze leidt naar wonder.me omgeving en is ook daarbuiten beschikbaar.
 Details ook op [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/lgjwdsyccdbgb/), opgeven niet nodig.
 
 
-## Zondag 24 januari 2021 15:00-18:00 
-
-### Nieuwjaarsborrel met OSM-NL, QGIS-NL, OSGeo-NL! 
-
-Is geweest. Groot succes! Ook Het Grote Geo Eiland! 
-
-Plenair gedeelte - 15:00-15:45 hier terug te kijken:
-
-{{< youtube WNowA03zQSo >}}   
-
-Zie ook [OSGeoNL Meetup](https://www.meetup.com/OSGeoNL/events/275612524/)!
-
-**Iedereen kon meedoen, vanaf 15:45 op Grote Geo Eiland!**
-**(Niet live gestreamed noch opgenomen)**
-<!-- [![Join us op Grote Geo Eiland](/images/episode-0014/grote-geo-eiland-screenshot.jpg)](https://www.wonder.me/r?id=5e97efe2-c837-4ed9-b7b2-9011ba49b712 "Join us op Grote Geo Eiland") --> 
-
-[![naar aflevering](/images/episode-0014/grote-geo-eiland-screenshot2.png)](/episode/episode-0014/ "naar aflevering")
-
-**-----------------------------------------------------------------------------------**
-
-## __[3 dec 2020 was DGGS Pubquiz!](/episode/episode-0013/)__
-
-## __Gemist? Kijk terug/watch back:__
- 
-
-{{< youtube HTgdEN3nb24 >}}
- 
-## Voorlaatste: __[DGGS goes Maptime!](/episode/episode-0012/)__
-
 Meedoen? Zeepkist? Ideeën? Inzendingen? Een event aankondiging in de show?
 
 Neem [Contact](/contact/) met ons op. 
 
-
- -----
+____
 
 __Meer Gemist? Kijk [alle Episodes met info/links](/episode).__ 
  
