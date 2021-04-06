@@ -20,8 +20,8 @@ Meer nieuws en programma volgen hieronder. Samengevat:
  
 ### Kijken
 
-* Via YouTube: https://www.youtube.com/watch?v=iOiliIAorD4
-* https://www.twitch.tv/osgeonl/schedule
+* __[Op YouTube](https://www.youtube.com/watch?v=iOiliIAorD4)__
+* __[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
 
 ### Programma
 

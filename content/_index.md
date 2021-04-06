@@ -15,8 +15,8 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 ### Kijken
 
-__YouTube: https://www.youtube.com/watch?v=iOiliIAorD4__
-__Twitch: https://www.twitch.tv/osgeonl/schedule__
+* __[Op YouTube](https://www.youtube.com/watch?v=iOiliIAorD4)__
+* __[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
 
 ____
 ## Ook: Elke Donderdag - 16:00-18:00 - Open Geo Ruimte
