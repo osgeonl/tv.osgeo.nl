@@ -9,14 +9,16 @@ Welkom bij De Grote Geo Show (DGGS).
 Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 ## __[8 apr 2021 19:00-20:30 CEST](/episode/episode-0016/)__
-## "GIS met het Toetsenbord" - Tikkers Special!
+## "GIS met je Toetsenbord" 
+## a.k.a. "De Tikkers Special"!
 
 [![naar aflevering](/images/episode-0016/episode-16-poster-s.jpg)](/episode/episode-0016/ "naar aflevering")
 
-### Kijken
+### Direct Kijken
 
-* __[Op YouTube](https://www.youtube.com/watch?v=iOiliIAorD4)__
-* __[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
+__[Op YouTube](https://www.youtube.com/watch?v=iOiliIAorD4)__
+
+__[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
 
 ____
 ## Ook: Elke Donderdag - 16:00-18:00 - Open Geo Ruimte

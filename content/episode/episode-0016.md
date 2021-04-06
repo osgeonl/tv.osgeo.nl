@@ -4,7 +4,7 @@ date: 2021-03-31T06:07:23+02:00
 draft: true
 ---
 
-__GIS met het Toetsenbord - Tikkers Special__ 
+__GIS met je Toetsenbord - Tikkers Special__ 
 
 Gaat vooral over oa. programmeren maar breder dan dat.
 
@@ -34,7 +34,7 @@ Uw Talkshow Host: __Niene Boeijen__
 * Quiz: Marielle
 * 5 Minute Challenge: BAG van bron naar QGIS: Just
 * Column: Erik
-* Nieuwtjes/Agenda: Host
+* Nieuwtjes/Agenda: Niene
 * reserve: GIS analyse: 10 minuten prutsen met tooltjes of 1 minuut code schrijven?
 
 Heb je iets voor de Zeepkist? Laat ons weten.
