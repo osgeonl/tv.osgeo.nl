@@ -10,6 +10,14 @@ Livestream in DWDD-stijl met mensen en onderwerpen uit de Open Geo Wereld.
 
 ## __[8 apr 2021 19:00-20:30 CEST](/episode/episode-0016/)__
 ## "GIS met het Toetsenbord" - Tikkers Special!
+
+[![naar aflevering](/images/episode-0016/episode-16-poster-s.jpg)](/episode/episode-0016/ "naar aflevering")
+
+### Kijken
+
+* Via YouTube: https://www.youtube.com/watch?v=iOiliIAorD4
+* https://www.twitch.tv/osgeonl/schedule
+
 ## -----------------------------------------------
 
 ## __[4 mrt 2021 19:00-21:00 CEST](/episode/episode-0015/)__

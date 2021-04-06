@@ -17,6 +17,11 @@ Meer nieuws en programma volgen hieronder. Samengevat:
 * de kracht van de commandline
 * interactief tikken 
 * Python in QGIS
+ 
+### Kijken
+
+* Via YouTube: https://www.youtube.com/watch?v=iOiliIAorD4
+* https://www.twitch.tv/osgeonl/schedule
 
 ### Programma
 
@@ -37,7 +42,6 @@ Heb je iets voor de Zeepkist? Laat ons weten.
 ### Uitslag Quiz
 
 Komt hier.
-
 
 ### Links
 
