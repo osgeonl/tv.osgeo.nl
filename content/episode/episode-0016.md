@@ -53,6 +53,17 @@ Hieronder de links uit de aflevering.
 * [In_the_Beginning..._Was_the_Command_Line - full text](http://cristal.inria.fr/~weis/info/commandline.html)
 * Modernized/annotated version: http://garote.bdmonkeys.net/commandline/index.html
 
+
+#### Introductie Python
+
+* [GIS OpenCourseWare cursus Programming for Geospatial Hydrological Applications](https://courses.gisopencourseware.org/course/view.php?id=2)
+* [UNESCO cursus Programming for Geospatial Hydrological Applications (tot 30 april beschikbaar met certificaat)](https://openlearning.unesco.org/courses/course-v1:IHE-Delft+IHE-01+2020_01/about)
+
+#### Tikken op Windows
+
+* [Ubuntu Bash op Windows](https://ubuntu.com/tutorials/ubuntu-on-windows)
+* [Docker op Windows](https://docs.docker.com/docker-for-windows/install/)
+
 #### Zeepkist
 
 * TBD
@@ -61,7 +72,3 @@ Hieronder de links uit de aflevering.
 
 * TBA
 
-#### Introductie Python
-
-* [GIS OpenCourseWare cursus Programming for Geospatial Hydrological Applications](https://courses.gisopencourseware.org/course/view.php?id=2)
-* [UNESCO cursus Programming for Geospatial Hydrological Applications (tot 30 april beschikbaar met certificaat)](https://openlearning.unesco.org/courses/course-v1:IHE-Delft+IHE-01+2020_01/about)
