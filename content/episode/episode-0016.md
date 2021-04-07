@@ -60,3 +60,8 @@ Hieronder de links uit de aflevering.
 #### Events
 
 * TBA
+
+#### Introductie Python
+
+* [GIS OpenCourseWare cursus Programming for Geospatial Hydrological Applications](https://courses.gisopencourseware.org/course/view.php?id=2)
+* [UNESCO cursus Programming for Geospatial Hydrological Applications (tot 30 april beschikbaar met certificaat)](https://openlearning.unesco.org/courses/course-v1:IHE-Delft+IHE-01+2020_01/about)
