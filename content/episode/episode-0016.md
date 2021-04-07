@@ -64,6 +64,11 @@ Hieronder de links uit de aflevering.
 * [Ubuntu Bash op Windows](https://ubuntu.com/tutorials/ubuntu-on-windows)
 * [Docker op Windows](https://docs.docker.com/docker-for-windows/install/)
 
+#### Docker 
+
+* [Docker Documentatie](https://docs.docker.com)
+* [Docker Tutorial 1 - Docker from Scratch - Ordina](https://docker-from-scratch.ivonet.nl/index.html)
+
 #### Zeepkist
 
 * TBD
