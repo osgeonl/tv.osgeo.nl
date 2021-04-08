@@ -29,7 +29,7 @@ Thema Uitzending: __"GIS met het Toetsenbord!"__
 
 Uw Talkshow Host: __Niene Boeijen__
 
-Muzikale omlijsting en leader song: Luciën Greefkens! 
+Muzikale omlijsting en leader song: Luciën Greefkes! 
 
 * University/Introductie Python, actief meedoen: Mariëlle en Hans
 * GitHub Game: Raymond
