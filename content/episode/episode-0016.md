@@ -29,13 +29,15 @@ Thema Uitzending: __"GIS met het Toetsenbord!"__
 
 Uw Talkshow Host: __Niene Boeijen__
 
+Muzikale omlijsting en leader song: Luciën Greefkens! 
+
 * University/Introductie Python, actief meedoen: Mariëlle en Hans
 * GitHub Game: Raymond
 * Quiz: Marielle
 * 5 Minute Challenge: BAG van bron naar QGIS: Just
 * Column: Erik
 * Nieuwtjes/Agenda: Niene
-* reserve: GIS analyse: 10 minuten prutsen met tooltjes of 1 minuut code schrijven?
+* reserve: GIS analyse met SQL: 10 minuten prutsen met tooltjes of 1 minuut code schrijven? Volgende aflevering!
 
 Heb je iets voor de Zeepkist? Laat ons weten.
 
@@ -54,18 +56,25 @@ Hieronder de links uit de aflevering.
 * Modernized/annotated version: http://garote.bdmonkeys.net/commandline/index.html
 
 
-#### Introductie Python
+#### Hans - Mariëlle Introductie Python
 
 * [GIS OpenCourseWare cursus Programming for Geospatial Hydrological Applications](https://courses.gisopencourseware.org/course/view.php?id=2)
 * [UNESCO cursus Programming for Geospatial Hydrological Applications (tot 30 april beschikbaar met certificaat)](https://openlearning.unesco.org/courses/course-v1:IHE-Delft+IHE-01+2020_01/about)
 
-#### Tikken op Windows
+#### Just - BAG met Bash en Docker
+
+##### De Commando shell: Bash
+
+* Bash cursus aanbod Udemy: https://www.udemy.com/topic/bash-shell/ 
+
+##### Windows Installaties
 
 * [Ubuntu Bash op Windows](https://ubuntu.com/tutorials/ubuntu-on-windows)
 * [Docker op Windows](https://docs.docker.com/docker-for-windows/install/)
 
-#### Docker 
+##### Docker 
 
+* Docker cursus aanbod Udemy: https://www.udemy.com/topic/docker/
 * [Docker Documentatie](https://docs.docker.com)
 * [Docker Tutorial 1 - Docker from Scratch - Ordina](https://docker-from-scratch.ivonet.nl/index.html)
 
