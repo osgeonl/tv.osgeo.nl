@@ -17,11 +17,15 @@ Meer nieuws en programma volgen hieronder. Samengevat:
 * de kracht van de commandline
 * interactief tikken 
 * Python in QGIS
- 
-### Kijken
 
-* __[Op YouTube](https://www.youtube.com/watch?v=iOiliIAorD4)__
-* __[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
+### Terugkijken/Watch Back
+Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
+
+{{< youtube iOiliIAorD4 >}}
+
+#### Just's BAG naar QGIS met GDAL
+
+![alt text](/images/episode-0016/just-bag2qgis-demo "Just's BAG naar QGIS met GDAL")
 
 ### Programma
 
@@ -43,7 +47,7 @@ Heb je iets voor de Zeepkist? Laat ons weten.
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0016/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 ### Links
 
@@ -63,6 +67,8 @@ Hieronder de links uit de aflevering.
 
 #### Just - BAG met Bash en Docker
 
+* [Presentatie slides - PDF](/slides/episode-0016/just-lego-bash-docker.pdf)
+
 ##### De Commando shell: Bash
 
 * Bash cursus aanbod Udemy: https://www.udemy.com/topic/bash-shell/ 
@@ -72,17 +78,14 @@ Hieronder de links uit de aflevering.
 * [Ubuntu Bash op Windows](https://ubuntu.com/tutorials/ubuntu-on-windows)
 * [Docker op Windows](https://docs.docker.com/docker-for-windows/install/)
 
-##### Docker 
+##### Docker Algemeen
 
 * Docker cursus aanbod Udemy: https://www.udemy.com/topic/docker/
 * [Docker Documentatie](https://docs.docker.com)
 * [Docker Tutorial 1 - Docker from Scratch - Ordina](https://docker-from-scratch.ivonet.nl/index.html)
 
-#### Zeepkist
-
-* TBD
-
 #### Events
 
-* TBA
+* Zie https://www.osgeo.org/events/
+
 
