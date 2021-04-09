@@ -25,7 +25,7 @@ Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTu
 
 #### Just's BAG naar QGIS met GDAL
 
-![alt text](/images/episode-0016/just-bag2qgis-demo "Just's BAG naar QGIS met GDAL")
+![alt text](/images/episode-0016/just-bag2qgis-demo.gif "Just's BAG naar QGIS met GDAL")
 
 ### Programma
 
