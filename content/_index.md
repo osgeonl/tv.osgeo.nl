@@ -11,7 +11,7 @@ Livestream - DWDD-stijl - Alles Open Geo
 ## Volgende - The Sequel!
 ## do 6 mei 2021 
 ## 19:00-20:00 CEST
-## Ep. 17 - "De Database de Baas!"
+## Ep. 17 - "Databases de Baas!"
 ____
 
 ## Laatste: 8 apr 2021
