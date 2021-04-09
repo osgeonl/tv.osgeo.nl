@@ -9,7 +9,7 @@ Welkom bij De Grote Geo Show (DGGS)
 Livestream - DWDD-stijl - Alles Open Geo
 
 ## Volgende: do 6 mei 2021 19:00-20:00
-### "Database de Baas!"
+## "De Database de Baas!"
 ### The Sequel!
 ____
 
