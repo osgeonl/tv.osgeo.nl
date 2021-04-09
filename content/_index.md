@@ -19,7 +19,7 @@ ____
 
 {{< youtube iOiliIAorD4 >}}
 
-[![links en veel info](/images/episode-0016/episode-16-poster-s.jpg)](/episode/episode-0016/ "naar aflevering")
+[Links en veel info](/episode/episode-0016/)
 
 <!-- ### Direct Kijken
 
