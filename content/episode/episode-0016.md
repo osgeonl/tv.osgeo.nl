@@ -23,8 +23,8 @@ Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTu
 
 {{< youtube iOiliIAorD4 >}}
 
+<a href="{{.URL}}#bagv2-gdal-qgis"> </a>
 #### Just's BAG v2 naar QGIS met GDAL
-[.](#bagv2-gdal-qgis)
 
 ![alt text](/images/episode-0016/just-bag2qgis-demo.gif "Just's BAG naar QGIS met GDAL")
 
