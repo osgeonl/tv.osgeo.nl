@@ -4,7 +4,7 @@
 # If a command fails then the push stops
 # Author: Just van den Broecke
 set -e
-
+git pull
 printf "\033[0;32mDoing updates to GitHub...\033[0m\n"
 
 # Add changes to git.

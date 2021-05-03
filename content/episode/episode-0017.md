@@ -46,5 +46,3 @@ Hieronder de links uit de aflevering.
 #### Events
 
 * Zie https://www.osgeo.org/events/
-
-
