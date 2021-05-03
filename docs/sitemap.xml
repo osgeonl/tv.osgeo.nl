@@ -1,173 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://tv.osgeo.nl/</loc>
     <lastmod>2021-03-31T06:07:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0016/</loc>
     <lastmod>2021-03-31T06:07:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/</loc>
     <lastmod>2021-03-31T06:07:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0015/</loc>
     <lastmod>2021-03-01T06:07:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0014/</loc>
     <lastmod>2021-01-24T09:07:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0013/</loc>
     <lastmod>2020-12-03T09:07:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0012/</loc>
     <lastmod>2020-10-20T09:07:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0011/</loc>
     <lastmod>2020-09-26T09:09:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0010/</loc>
     <lastmod>2020-06-16T09:09:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0009/</loc>
     <lastmod>2020-06-11T09:09:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0008/</loc>
     <lastmod>2020-06-04T09:09:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0007/</loc>
     <lastmod>2020-05-28T09:09:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0006/</loc>
     <lastmod>2020-05-21T09:09:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0005/</loc>
     <lastmod>2020-05-14T09:09:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0004/</loc>
     <lastmod>2020-05-07T09:09:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0003/</loc>
     <lastmod>2020-04-30T10:18:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0002/</loc>
     <lastmod>2020-04-23T13:18:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/episode/episode-0001/</loc>
     <lastmod>2020-04-16T17:18:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/redactie/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/regie/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/stats/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tv.osgeo.nl/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
