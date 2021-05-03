@@ -8,6 +8,8 @@ Welkom bij De Grote Geo Show (DGGS)
    
 Livestream - DWDD-stijl - Alles Open Geo
 
+![alt text](/images/episode-0017/poster-ep17-small "Poster Afl 17")
+
 ## Volgende - The SeQueL!
 ## Do 6 mei 2021 
 ## 19:00-20:00 CEST

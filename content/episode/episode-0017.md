@@ -6,6 +6,8 @@ draft: true
 
 ## Databases de Baas - over Geo-Databases 
 
+![alt text](/images/episode-0017/poster-ep17-small "Poster Afl 17")
+
 Gaat vooral over oa. waarom het gebruik van geo-databases m.n. PostGIS 
 en GeoPackage onontbeerlijk is voor de serieuze open GISser.
 
