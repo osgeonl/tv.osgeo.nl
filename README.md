@@ -7,7 +7,7 @@ In het kort:
 
 Hugo is een statische website builder, zie https://gohugo.io/.
 
-De site wordt gehost op GitHub als Github Pages in repo: https://github.com/osgeonl/tv.osgeo.nl/
+De site wordt gehost op GitHub in repo: https://github.com/osgeonl/tv.osgeo.nl/
 Bijzonderheden: 
 
 * ipv `gh-pages` Branch staat statische/gegenereerde site in `docs` map
@@ -18,6 +18,23 @@ Bijzonderheden:
 Thema van Castanet, voorbeeld: https://sample-castanet.netlify.com/ (werkt nu nog niet, onderzoeken)
 
 https://gohugo.io/getting-started/quick-start/
+
+## Website Updaten
+
+De website wordt automatisch geupdate bij een commit/push naar de GitHub master branch.
+Hiervoor is er een [GitHub Publish Workflow](.github/workflows/publish.yml) die de 
+benodigde acties (Hugo installeren, genereren, GitHub commit/push etc) doet. 
+
+Op linux doe je eenvoudigweg: `./push-git.sh <mijn commentaar>`
+
+Er is nog het oude [generate.sh](generate.sh) en [deploy.sh](deploy.sh) scripts, maar die zijn niet meer nodig.
+[generate.sh](generate.sh) kan nog gerbuikt om lokaal te testen.
+
+## Zelf genereren
+
+Is in principe niet nodig: omdat site automatisch na commit/push via een GitHub Workflow (zie boven) wordt ge-update.
+Alleen als je grote structurele wijzigingen hebt is dit handig om eerst lokaal te testen.
+
 
 ```bash
 
@@ -82,3 +99,4 @@ git commit -m "$msg"
 git push origin master
 
 ```
+
