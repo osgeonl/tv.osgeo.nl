@@ -6,7 +6,21 @@
     <description>Recent content in Episodes on De Grote Geo Show</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language>
-    <lastBuildDate>Wed, 31 Mar 2021 06:07:23 +0200</lastBuildDate><atom:link href="https://tv.osgeo.nl/episode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 06:07:23 +0200</lastBuildDate><atom:link href="https://tv.osgeo.nl/episode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode #17 - 6 mei 2021 - 19:00-20:30 CEST</title>
+      <link>https://tv.osgeo.nl/episode/episode-0017/</link>
+      <pubDate>Sun, 02 May 2021 06:07:23 +0200</pubDate>
+      
+      <guid>https://tv.osgeo.nl/episode/episode-0017/</guid>
+      <description>Databases de Baas - over Geo-Databases Gaat vooral over oa. waarom het gebruik van geo-databases m.n. PostGIS en GeoPackage onontbeerlijk is voor de serieuze open GISser.
+Uitgangspunt: &amp;ldquo;Databases zijn de Basis, wees ze de Baas: Baas in eigen Database&amp;rdquo;.
+Terugkijken/Watch Back Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube. Link volgt.
+Programma Thema Uitzending: &amp;ldquo;Databases de Baas !&amp;quot;
+Uw Talkshow Host: Niene Boeijen
+Muzikale omlijsting en leader song: Luciën Greefkes!</description>
+    </item>
+    
     <item>
       <title>Episode #16 - 8 apr 2021 - 19:00-20:30 CEST</title>
       <link>https://tv.osgeo.nl/episode/episode-0016/</link>
