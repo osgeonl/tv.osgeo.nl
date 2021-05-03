@@ -11,6 +11,13 @@ en GeoPackage onontbeerlijk is voor de serieuze open GISser.
 
 Uitgangspunt: **"Databases zijn de Basis, wees ze de Baas: Baas in eigen Database"**.
 
+
+### Direct Kijken
+
+__[Op YouTube](https://www.youtube.com/watch?v=caOn96p3cYQ)__
+
+__[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
+
 ### Terugkijken/Watch Back
 
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.

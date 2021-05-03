@@ -14,7 +14,11 @@ Livestream - DWDD-stijl - Alles Open Geo
 ## Ep. 17 - "Databases de Baas!"
 __[Meer Info](/episode/episode-0017/)__
 
-____
+### Direct Kijken
+
+__[Op YouTube](https://www.youtube.com/watch?v=caOn96p3cYQ)__
+
+__[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
 
 ## Laatste: 8 apr 2021
 
