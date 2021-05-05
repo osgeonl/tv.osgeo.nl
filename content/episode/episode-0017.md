@@ -51,6 +51,9 @@ Komt hier.
 
 Hieronder de links uit de aflevering.
 
+#### Algemeen PostGIS
+
+* [Leer PostGIS Interaktief - CrunchyData](https://learn.crunchydata.com/postgis) (Paul Ramsey werkt daar!)
 
 #### Events
 
