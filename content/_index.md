@@ -8,8 +8,6 @@ Welkom bij De Grote Geo Show (DGGS)
    
 Livestream - DWDD-stijl - Alles Open Geo
 
-![alt text](/images/episode-0017/poster-ep17-small.jpg "Poster Afl 17")
-
 ## Laatste Ep. 17 - "Databases de Baas!"
 ## Do 6 mei 2021 
 ## 19:00-20:00 CEST
