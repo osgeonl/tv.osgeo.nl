@@ -6,19 +6,10 @@ draft: true
 
 ## Databases de Baas - over Geo-Databases 
 
-![alt text](/images/episode-0017/poster-ep17-small.jpg "Poster Afl 17")
-
 Gaat vooral over oa. waarom het gebruik van geo-databases m.n. PostGIS 
 en GeoPackage onontbeerlijk is voor de serieuze open GISser.
 
 Uitgangspunt: **"Databases zijn de Basis, wees ze de Baas: Baas in eigen Database"**.
-
-
-### Direct Kijken
-
-__[Op YouTube](https://www.youtube.com/watch?v=caOn96p3cYQ)__
-
-__[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
 
 ### Terugkijken/Watch Back
 
