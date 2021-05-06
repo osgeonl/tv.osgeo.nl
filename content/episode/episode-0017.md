@@ -54,6 +54,7 @@ Hieronder de links uit de aflevering.
 #### Algemeen PostGIS
 
 * [Leer PostGIS Interaktief - CrunchyData](https://learn.crunchydata.com/postgis) (Paul Ramsey werkt daar!)
+* [PostgreSQL tutoria](https://www.postgresqltutorial.com) (Geen postGIS maar wel erg goede uitleg met voorbeelden, beginners tot gevorderden)
 
 #### Events
 
