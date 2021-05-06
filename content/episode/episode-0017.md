@@ -43,7 +43,7 @@ Muzikale omlijsting en leader song: Luciën Greefkes!
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0017/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 ### Links
 
