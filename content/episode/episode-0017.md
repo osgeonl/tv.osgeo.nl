@@ -23,7 +23,8 @@ __[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
 ### Terugkijken/Watch Back
 
 Kijk de aflevering hier terug via YouTube. Watch the episode back here via YouTube.
-Link volgt.
+
+{{< youtube caOn96p3cYQ >}}
 
 ### Programma
 
@@ -37,11 +38,8 @@ Muzikale omlijsting en leader song: Luciën Greefkes!
 * Willem Hoffmans - _GIS Analyse met SQL: 10 minuten prutsen met tooltjes of 1 minuut code schrijven_
 * Quiz: Winifred Broeder en Willem Hoffmans
 * Tom van Tilburg - _Geavanceerd PostGIS - Vector Tiles en meer_
-* Column: Erik
-* Zeepkist
+* Luciën: Muzikale Column
 * Nieuwtjes
-
-Heb je iets voor de Zeepkist? Laat ons weten.
 
 ### Uitslag Quiz
 

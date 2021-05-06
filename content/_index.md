@@ -10,17 +10,15 @@ Livestream - DWDD-stijl - Alles Open Geo
 
 ![alt text](/images/episode-0017/poster-ep17-small.jpg "Poster Afl 17")
 
-## Volgende - The SeQueL!
+## Laatste Ep. 17 - "Databases de Baas!"
 ## Do 6 mei 2021 
 ## 19:00-20:00 CEST
-## Ep. 17 - "Databases de Baas!"
+
+### TerugKijken
+
+{{< youtube caOn96p3cYQ >}}
+
 __[Meer Info](/episode/episode-0017/)__
-
-### Direct Kijken
-
-__[Op YouTube](https://www.youtube.com/watch?v=caOn96p3cYQ)__
-
-__[Op Twitch](https://www.twitch.tv/osgeonl/schedule)__
 
 ____
 
