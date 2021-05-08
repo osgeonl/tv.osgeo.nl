@@ -45,6 +45,10 @@ Hieronder de links uit de aflevering.
 * [Leer PostGIS Interaktief - CrunchyData](https://learn.crunchydata.com/postgis) (Paul Ramsey werkt daar!)
 * [PostgreSQL tutoria](https://www.postgresqltutorial.com) (Geen postGIS maar wel erg goede uitleg met voorbeelden, beginners tot gevorderden)
 
+#### Wouter Boasson - Intro PostGIS
+
+* [Presentatie Slides (PDF)](/slides/episode-0017/wouterb-postgis-intro.pdf)
+
 #### Events
 
 * Zie https://www.osgeo.org/events/
