@@ -43,12 +43,13 @@ Hieronder de links uit de aflevering.
 #### Algemeen PostGIS
 
 * [Leer PostGIS Interaktief - CrunchyData](https://learn.crunchydata.com/postgis) (Paul Ramsey werkt daar!)
-* [PostgreSQL tutoria](https://www.postgresqltutorial.com) (Geen postGIS maar wel erg goede uitleg met voorbeelden, beginners tot gevorderden)
+* [PostgreSQL tutorial](https://www.postgresqltutorial.com) (Geen postGIS maar wel erg goede uitleg met voorbeelden, beginners tot gevorderden)
 
 #### Wouter Boasson - Intro PostGIS
 
 * [Presentatie Slides (PDF)](/slides/episode-0017/wouterb-postgis-intro.pdf)
 
 #### Events
-
+               
+* FOSS4G-NL - 19 (workshops) en 20 (conf) Oktober 2021 bij ITC Enschede!
 * Zie https://www.osgeo.org/events/
