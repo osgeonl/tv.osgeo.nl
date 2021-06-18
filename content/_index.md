@@ -8,6 +8,10 @@ Welkom bij De Grote Geo Show (DGGS)
    
 Livestream - DWDD-stijl - Alles Open Geo
 
+![alt text](/images/episode-0018/poster-dggs-ep18.jpg "Ep 18 Poster")
+## [Cartografie Special](/episode/episode-0018/)
+____
+
 ## Laatste Ep. 17 - "Databases de Baas!"
 ## Do 6 mei 2021 
 ## 19:00-20:00 CEST
@@ -20,7 +24,7 @@ __[Meer Info](/episode/episode-0017/)__
 
 ____
 
-## Laatste: 8 apr 2021
+## VoorLaatste: 8 apr 2021
 
 ## Ep. 16 "GIS met je Toetsenbord" 
 
