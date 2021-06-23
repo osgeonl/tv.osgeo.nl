@@ -40,6 +40,7 @@ Komt hier.
 Hieronder de links uit de aflevering.
 
 #### Events
-               
+
+* do 1 juli 2021 16:30 - GIN Meeting Online - ["Open Source GIS"](https://www.geoinformatienederland.nl/agenda/communibase/60b9e42fa1d5b300d9ca30f0/) met Irene Pleizier en Erik Meerburg               
 * FOSS4G-NL - 19 (workshops) en 20 (conf) Oktober 2021 bij ITC Enschede!
 * Zie https://www.osgeo.org/events/
