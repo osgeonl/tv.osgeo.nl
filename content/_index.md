@@ -15,7 +15,6 @@ Livestream - DWDD-stijl - Alles Open Geo
 
 {{< youtube 8bPvPFFVlg8 >}}
 
-![alt text](/images/episode-0018/poster-dggs-ep18.jpg "Ep 18 Poster")
 ## [Meer Info](/episode/episode-0018/)
 ____
 
