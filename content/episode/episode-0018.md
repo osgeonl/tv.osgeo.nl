@@ -6,9 +6,6 @@ draft: true
 
 ## Cartografie Special
 
-![alt text](/images/episode-0018/poster-dggs-ep18.jpg "Ep 18 Poster")
-
-
 ### TerugKijken
 
 {{< youtube 8bPvPFFVlg8 >}}
