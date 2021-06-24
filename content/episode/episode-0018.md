@@ -8,17 +8,19 @@ draft: true
 
 ![alt text](/images/episode-0018/poster-dggs-ep18.jpg "Ep 18 Poster")
 
+
+### TerugKijken
+
+{{< youtube 8bPvPFFVlg8 >}}
+
 ### Programma
 
 Thema Uitzending: __"Cartografie"__ 
 
-Uw Talkshow Host: __TBA__
-
-Muzikale omlijsting en leader song: Luciën Greefkes! 
+Uw Talkshow Host: __Erik Meerburg__
 
 Presentaties:
 
-* Edward Mac Gillavry (WebMapper)
 * Winifred Broeder (Landkaartje)
 * Baukje Rienks (Aeres Hogeschool Almere)
   
@@ -26,14 +28,14 @@ Verder:
 
 * Quiz door Mariëlle Geers-Plasmans
 * Nieuwtjes/Agenda
-* Muzikale omlijsting - Luciën Greefkes
 
 Samenstelling: Winifred Broeder 
-  
+Leader song: Luciën Greefkes! 
+Techniek en regie: Just van den Broecke  
 
 ### Uitslag Quiz
 
-Komt hier.
+![alt text](/images/episode-0018/uitslag-quiz.png "Uitslag van De Grote Geo Quiz")
 
 ### Links
 
