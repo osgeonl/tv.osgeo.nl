@@ -8,7 +8,18 @@ Welkom bij De Grote Geo Show (DGGS)
    
 Livestream - DWDD-stijl - Alles Open Geo
 
-## Laatste Ep. 18 - "Cartografie Special"
+## VoorLaatste Ep. 19 - "10 Jaar OSGeo.nl - Verhaal in 300 Foto's"
+## Do 2 dec 2021 
+
+### TerugKijken
+
+{{< youtube yMAxQEg0fSw >}}
+
+## [Meer Info](/episode/episode-0019/)
+
+____
+
+## VoorLaatste Ep. 18 - "Cartografie Special"
 ## Do 24 juno 2021 
 
 ### TerugKijken
@@ -18,7 +29,7 @@ Livestream - DWDD-stijl - Alles Open Geo
 ## [Meer Info](/episode/episode-0018/)
 ____
 
-## VoorLaatste Ep. 17 - "Databases de Baas!"
+## VoorVoorLaatste Ep. 17 - "Databases de Baas!"
 ## Do 6 mei 2021 
 ## 19:00-20:00 CEST
 
@@ -30,7 +41,7 @@ __[Meer Info](/episode/episode-0017/)__
 
 ____
 
-## VoorVoorLaatste: 8 apr 2021
+## VoorVoorVoorLaatste: 8 apr 2021
 
 ## Ep. 16 "GIS met je Toetsenbord" 
 
