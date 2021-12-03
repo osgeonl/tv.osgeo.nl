@@ -19,3 +19,6 @@ Aamensteller en Verteller: __Just van den Broecke__
 OSGeo.nl werd opgericht op 2 dec 2011 tijdens het GIN Congres, Jaarbeurs Utrecht.
 In deze uitzending maken we een reis door de afgelopen 10 jaar aan de hand van het rijke OSGeo.nl foto-archief.
 Met dank aan alle organisatoren van onze events, de deelnemers en zij die foto's hebben genomen.
+
+NB. de meeste foto's staan wel ergens online. Het was ondoenlijk om honderden mensen om toestemming te
+vragen. Wil je toch dat jouw beeltenis wordt verwijderd uit de video? Laat ons weten via tv@osgeo.nl.
